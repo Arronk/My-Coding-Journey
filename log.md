@@ -43,7 +43,7 @@ so easy, I hope I get to that level of proficiency eventually. The JQuery module
 Colt presents the information well and i'm glad he spent more time on vanilla js DOM manipulation first. FCC does it the other way around and I found it easier to put 
 context around JQuery's use this time around due the order in which the content was delivered.
 
-[JQuery Exercise](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/jquery)
-[Coding Train - Neuroevolution Flappy Bird: Part 2](https://www.youtube.com/watch?v=YtRA6tqgJBc)
-[How Machine Learning is Changing Software Development](https://medium.com/@akiranin/how-machine-learning-is-changing-software-development-301928bb7772)
+- [JQuery Exercise](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/jquery)
+- [Coding Train - Neuroevolution Flappy Bird: Part 2](https://www.youtube.com/watch?v=YtRA6tqgJBc)
+- [How Machine Learning is Changing Software Development](https://medium.com/@akiranin/how-machine-learning-is-changing-software-development-301928bb7772)
 
