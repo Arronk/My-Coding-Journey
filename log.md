@@ -34,3 +34,16 @@ understand and utilise the recent teachings in DOM manipulation which had gone a
 
 [Color Guessing Game Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/rgb_guessing_game)
 
+## Day 9: 18.04.2018
+
+### Progress: Completed Section 16 Into to JQuery   
+
+Read a couple of intersting articles on Medium and watched an episode of the Coding Train on Youtube. The guy makes building a neural network 
+so easy, I hope I get to that level of proficiency eventually. The JQuery module was a bit of a let down, only one very basic exercise and lots of video content.
+Colt presents the information well and i'm glad he spent more time on vanilla js DOM manipulation first. FCC does it the other way around and I found it easier to put 
+context around JQuery's use this time around due the order in which the content was delivered.
+
+[JQuery Exercise](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/jquery)
+[Coding Train - Neuroevolution Flappy Bird: Part 2](https://www.youtube.com/watch?v=YtRA6tqgJBc)
+[How Machine Learning is Changing Software Development](https://medium.com/@akiranin/how-machine-learning-is-changing-software-development-301928bb7772)
+
