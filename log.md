@@ -32,7 +32,7 @@ I cloned the repo as my commits were not counting to my contributions graph when
 Spent several hours following the code along to the Color Guessing Game Project. I did pause the videos in areas to build sections of the project I had a handle on before Colt showed the solution. I think I would have still struggled to build this entirely on my own, especially in a couple of hours. The project did give me a good oppurtunity to further 
 understand and utilise the recent teachings in DOM manipulation which had gone a little over my head. JQuery next!
 
-[Color Guessing Game Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/rgb_guessing_game)
+- [Color Guessing Game Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/rgb_guessing_game)
 
 ## Day 9: 18.04.2018
 
