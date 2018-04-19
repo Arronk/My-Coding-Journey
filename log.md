@@ -47,3 +47,12 @@ context around JQuery's use this time around due the order in which the content 
 - [Coding Train - Neuroevolution Flappy Bird: Part 2](https://www.youtube.com/watch?v=YtRA6tqgJBc)
 - [How Machine Learning is Changing Software Development](https://medium.com/@akiranin/how-machine-learning-is-changing-software-development-301928bb7772)
 
+## Day 10: 19.04.2018
+
+### Progress: Completed Section 17-18 Advanced JQuery and Todo List Project   
+
+Spent most of the day doing the code along to the Todo List Project. Its starting to feel like the entirety of this Udemy course is going to be just code alongs which is not going to be as beneficial to my learning as I first thought. I'm definately still learning a lot and it's great to see 
+an experienced Developer like Colt work through a project so I can get used understanding the processes. The JQuery Library seems relatively straight forward and definately simplifies vanilla js DOM Manipulation. Almost onto the backend part of the course now. Planning to get back into the FCC curriculum
+and aim towards finishing the front end certificate. I find FCC throws you in the deep end and expects you to sink or swim which I think I am now ready to take on that challenge.
+
+- [Todo List Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/TodoListProject)
