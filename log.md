@@ -16,8 +16,7 @@ Links to work completed below:
 
 - [Dom Selectors.html](https://github.com/Arronk/100-days-of-code/blob/master/Daily%20Exercises/Dom%20Selectors.html)
 - [Score Keeper.html](https://github.com/Arronk/100-days-of-code/blob/master/Daily%20Exercises/Score%20Keeper.html)
-- [Score Keeper.js](https://github.com/Arronk/100-days-of-code/blob/master/Daily%20Exercises/Score%20Keeper.js)- 
-
+- [Score Keeper.js](https://github.com/Arronk/100-days-of-code/blob/master/Daily%20Exercises/Score%20Keeper.js)
 ## Day 7: 16.04.2018
 
 ### Progress: Learned how to use Git / Cloud 9 / Github and cloned the 100DaysofCode Repo 
@@ -38,10 +37,10 @@ understand and utilise the recent teachings in DOM manipulation which had gone a
 
 ### Progress: Completed Section 16 Into to JQuery   
 
-Read a couple of intersting articles on Medium and watched an episode of the Coding Train on Youtube. The guy makes building a neural network 
+Read a couple of intersting articles on Medium and watched an episode of the Coding Train on Youtube. The guy makes building a neural network look
 so easy, I hope I get to that level of proficiency eventually. The JQuery module was a bit of a let down, only one very basic exercise and lots of video content.
-Colt presents the information well and i'm glad he spent more time on vanilla js DOM manipulation first. FCC does it the other way around and I found it easier to put 
-context around JQuery's use this time around due the order in which the content was delivered.
+Colt presents the information well and i'm glad he spent more time on vanilla JS DOM manipulation first. FCC does it the other way around and I found it easier to put 
+context around JQuery's use this time around due to the order in which the content was delivered.
 
 - [JQuery Exercise](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/jquery)
 - [Coding Train - Neuroevolution Flappy Bird: Part 2](https://www.youtube.com/watch?v=YtRA6tqgJBc)
@@ -52,7 +51,15 @@ context around JQuery's use this time around due the order in which the content 
 ### Progress: Completed Section 17-18 Advanced JQuery and Todo List Project   
 
 Spent most of the day doing the code along to the Todo List Project. Its starting to feel like the entirety of this Udemy course is going to be just code alongs which is not going to be as beneficial to my learning as I first thought. I'm definately still learning a lot and it's great to see 
-an experienced Developer like Colt work through a project so I can get used understanding the processes. The JQuery Library seems relatively straight forward and definately simplifies vanilla js DOM Manipulation. Almost onto the backend part of the course now. Planning to get back into the FCC curriculum
+an experienced Developer like Colt work through a project so I can get used to understanding the process. The JQuery Library seems relatively straight forward and definately simplifies vanilla JS DOM Manipulation. Almost onto the backend part of the course now. Planning to get back into the FCC curriculum
 and aim towards finishing the front end certificate. I find FCC throws you in the deep end and expects you to sink or swim which I think I am now ready to take on that challenge.
 
 - [Todo List Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/TodoListProject)
+
+## Day 11: 20.04.2018
+
+### Progress: Learning Paper.js as part of a new quick project
+
+Had some good fun learning about paper.js and playing around with the examples on their website with my kids. Did not get time to finish the exercise as 
+I hit a brickwall trying to figure out how to get correct syntax highlighting in Sublime Text 3 for paperscript. After well over an hour of troubleshooting I gave
+up and will just resort to using a different text editor like Notepad++ or VS Code when using paperscript in future.
