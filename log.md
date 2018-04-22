@@ -1,5 +1,11 @@
 # 100 Days of Code - Log
 
+## Contents
+
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [FAQ](FAQ.md)
+
 ## Day 1-5: 10.04.2018 - 14.04.2018
 
 ### Progress: Was not set up on Github for first 5 days please refer to my daily tweets for details
