@@ -7,9 +7,6 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Translations
-[español](intl/es/README.md)  [français](intl/fr/FAQ-fr.md) [русский](intl/ru/README-ru.md)
-
 If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
 ## If you've decided to join:
