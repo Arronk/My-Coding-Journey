@@ -1,6 +1,8 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Contents
+
+* [Home](README.md)
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
