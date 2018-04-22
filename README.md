@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+[Github Pages View](https://arronk.github.io/My-Coding-Journey/)
+
 ## Contents
 
 * [Rules](rules.md)
