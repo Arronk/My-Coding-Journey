@@ -63,3 +63,16 @@ and aim towards finishing the front end certificate. I find FCC throws you in th
 Had some good fun learning about paper.js and playing around with the examples on their website with my kids. Did not get time to finish the exercise as 
 I hit a brickwall trying to figure out how to get correct syntax highlighting in Sublime Text 3 for paperscript. After well over an hour of troubleshooting I gave
 up and will just resort to using a different text editor like Notepad++ or VS Code when using paperscript in future.
+
+## Day 12: 21.04.2018
+
+### Progress: The project did not turn out to be so quick!
+
+Spent a good amount of time hitting my head against a brick wall trying to read through docs and have the canvas display a 10  x 10 purple grid of circles using paperJS. I managed to get it working but on looking at the solution video was disappointed with how simple the solution was.
+
+## Day 13: 22.04.2018
+
+### Progress: Finished off the Project and loaded it onto Codepen
+
+Finished the paperJS project and loaded it up to codepen. Had a lot of issue trying to figure out how to get sound files hosting and working on codepen but I got there in the end. Also had a bit of a hard time figuring out how to have the document running on localhost to get rid of the error messages.
+I managed to get that one sorted as well once I realised something was not enabled. Back end part of the course starts next which I'm really looking forward too.
