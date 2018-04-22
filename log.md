@@ -76,3 +76,5 @@ Spent a good amount of time hitting my head against a brick wall trying to read 
 
 Finished the paperJS project and loaded it up to codepen. Had a lot of issue trying to figure out how to get sound files hosting and working on codepen but I got there in the end. Also had a bit of a hard time figuring out how to have the document running on localhost to get rid of the error messages.
 I managed to get that one sorted as well once I realised something was not enabled. Back end part of the course starts next which I'm really looking forward too.
+
+[PaperJS Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/Paper)
