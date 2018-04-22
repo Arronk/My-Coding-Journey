@@ -1,5 +1,10 @@
 # Rules of the 100 Days Of Code Challenge
 
+## Contents
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [FAQ](FAQ.md)
+
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
@@ -21,7 +26,3 @@
 4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
 5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
