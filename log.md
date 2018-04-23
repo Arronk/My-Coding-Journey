@@ -24,6 +24,7 @@ Links to work completed below:
 - [Dom Selectors.html](https://github.com/Arronk/100-days-of-code/blob/master/Daily%20Exercises/Dom%20Selectors.html)
 - [Score Keeper.html](https://github.com/Arronk/100-days-of-code/blob/master/Daily%20Exercises/Score%20Keeper.html)
 - [Score Keeper.js](https://github.com/Arronk/100-days-of-code/blob/master/Daily%20Exercises/Score%20Keeper.js)
+
 ## Day 7: 16.04.2018
 
 ### Progress: Learned how to use Git / Cloud 9 / Github and cloned the 100DaysofCode Repo 
@@ -39,6 +40,7 @@ Spent several hours following the code along to the Color Guessing Game Project.
 understand and utilise the recent teachings in DOM manipulation which had gone a little over my head. JQuery next!
 
 - [Color Guessing Game Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/rgb_guessing_game)
+- [Color Guessing Game Codepen](https://codepen.io/Arronk/pen/XqXMBO)
 
 ## Day 9: 18.04.2018
 
@@ -62,6 +64,8 @@ an experienced Developer like Colt work through a project so I can get used to u
 and aim towards finishing the front end certificate. I find FCC throws you in the deep end and expects you to sink or swim which I think I am now ready to take on that challenge.
 
 - [Todo List Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/TodoListProject)
+- [Todo List Codepen](https://codepen.io/Arronk/pen/GdoWLW)
+-
 
 ## Day 11: 20.04.2018
 
@@ -84,4 +88,14 @@ Spent a good amount of time hitting my head against a brick wall trying to read 
 Finished the paperJS project and loaded it up to codepen. Had a lot of issue trying to figure out how to get sound files hosting and working on codepen but I got there in the end. Also had a bit of a hard time figuring out how to have the document running on localhost to get rid of the error messages.
 I managed to get that one sorted as well once I realised something was not enabled. Back end part of the course starts next which I'm really looking forward too.
 
-[PaperJS Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/Paper)
+- [PaperJS Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/Paper)
+- [PaperJS Codepen](https://codepen.io/Arronk/full/Gdpyev/)
+
+## Day 14: 23.04.2018
+
+### Progress: Got stuck into the backend section of Colt Steeles Web Developer Bootcamp 20-23
+
+Sections completed include: Backend Basics, The Command Line, Node JS & Server Side Frameworks. I just have the Express Basics Exercise to 
+complete to finish Section 23. I'm hoping to knock out a couple of sections per day and have the entire course finished by the end of next week. I also spent some time
+further updating my codepen account with some of my work  to share and made another attempt at getting my Github page looking more how I like it, as yet I am unsuccesful.
+On a final note PaperJS codepen got chosen as a picked pen, stoked!
