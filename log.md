@@ -65,7 +65,6 @@ and aim towards finishing the front end certificate. I find FCC throws you in th
 
 - [Todo List Project](https://github.com/Arronk/My-Coding-Journey/tree/master/Daily%20Exercises/TodoListProject)
 - [Todo List Codepen](https://codepen.io/Arronk/pen/GdoWLW)
--
 
 ## Day 11: 20.04.2018
 
