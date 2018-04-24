@@ -98,3 +98,11 @@ Sections completed include: Backend Basics, The Command Line, Node JS & Server S
 complete to finish Section 23. I'm hoping to knock out a couple of sections per day and have the entire course finished by the end of next week. I also spent some time
 further updating my codepen account with some of my work  to share and made another attempt at getting my Github page looking more how I like it, as yet I am unsuccesful.
 On a final note PaperJS codepen got chosen as a picked pen, stoked!
+
+## Day 15: 24.04.2018
+
+### Progress: Completed the express assignment on Colt's Udemy course and continued with intermediate Express
+
+Completed the assignment albeit requiring a couple of hints for the final bits of the it. Problem areas were setting up the kev value pairs for the animal sounds
+then accessing those pairs as well as the showing the string looped num times with spaces in between. Spent some more time in the evening with 
+intermediate but i'm falling asleep at the wheel and think I need to take a break. In a pizza coma right now!
