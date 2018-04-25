@@ -106,3 +106,14 @@ On a final note PaperJS codepen got chosen as a picked pen, stoked!
 Completed the assignment albeit requiring a couple of hints for the final bits of the it. Problem areas were setting up the kev value pairs for the animal sounds
 then accessing those pairs as well as the showing the string looped num times with spaces in between. Spent some more time in the evening with 
 intermediate but i'm falling asleep at the wheel and think I need to take a break. In a pizza coma right now!
+
+## Day 16: 25.04.2018
+
+### Progress: Started the final YelpCamp Project and made a Vimeo of progress so far    
+
+Up to Section 26 in Colt's Web Dev Bootcamp on Udemy. Started the final YelpCamp Project and made a short video just 
+highlighting some of the small pieces that are done so far. Will probably upload the backend files into my Github
+repo over the coming days just so everything is in the same place. I definately think I need to start doing some of my
+own work for a while once i'm done with this course to cement what I have learned recently.
+
+[YelpCamp Video 1](https://vimeo.com/266490571)
