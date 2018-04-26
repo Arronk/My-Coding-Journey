@@ -117,3 +117,11 @@ repo over the coming days just so everything is in the same place. I definately 
 own work for a while once i'm done with this course to cement what I have learned recently.
 
 [YelpCamp Video 1](https://vimeo.com/266490571)
+
+## Day 17: 26.04.2018
+
+### Progress: Continued Progressing through the YelpCamp Project   
+
+A lot of interuptions today but managed to fit a couple of night owl hours after downing a couple bottles of wine. Completed
+the YelpCamp Basics and have the home, campgrounds and add campgrounds page routes working and some basic styling
+with Bootstrap. Will provide an update video tomorrow when I am have more time to do it properly.
