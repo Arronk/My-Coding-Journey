@@ -135,4 +135,4 @@ Continued progressing through the YelpCamp project and then detoured to build a 
 this code along and I think with practice this process should become relatively straight forward as there isn't 
 much requirement for algorithmic thinking, more so just syntax and styling. Video link of the blog below:
 
-[Restful Blog App](https://youtu.be/A9-P11b2y_k)
+[Restful Blog App Video](https://youtu.be/A9-P11b2y_k)
