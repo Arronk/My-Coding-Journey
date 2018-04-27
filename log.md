@@ -125,3 +125,14 @@ own work for a while once i'm done with this course to cement what I have learne
 A lot of interuptions today but managed to fit a couple of night owl hours after downing a couple bottles of wine. Completed
 the YelpCamp Basics and have the home, campgrounds and add campgrounds page routes working and some basic styling
 with Bootstrap. Will provide an update video tomorrow when I am have more time to do it properly.
+
+## Day 18: 27.04.2018
+
+### Progress: Continued Progressing through the YelpCamp Project + Built a Restful Blog App
+
+Put in a solid days work on my last day of annual leave trying to finish of Colt's course on Udemy.
+Continued progressing through the YelpCamp project and then detoured to build a RESTful Blog App. I really enjoyed
+this code along and I think with practice this process should become relatively straight forward as there isn't 
+much requirement for algorithmic thinking, more so just syntax and styling. Video link of the blog below:
+
+[Restful Blog App](https://youtu.be/A9-P11b2y_k)
