@@ -67,10 +67,10 @@ organisation for about a year now. I have detoured from their curriculum for som
 too distant future. I can think of no better place to start contrbuting to Open Source then doing my bit to assist their team in any small 
 way possible. I encourage anybody who can spare a few dollars a month to [GIVE](https://donate.freecodecamp.org) to such a good cause.
 2. Showcase your Open Source Contributioons - Aside from the daily tweets and other items mentioned above I have decided to follow Adnan's advice and set up the following links on my readme page:
-    - [Github Pages View](https://arronk.github.io/My-Coding-Journey/)
-    - [Sourcerer Page](https://sourcerer.io/arronk)
-    - [Github Profile Summary](https://profile-summary-for-github.com/user/arronk)
-    - [Codepen Account](https://codepen.io/Arronk/)
+- [Github Pages View](https://arronk.github.io/My-Coding-Journey/)
+- [Sourcerer Page](https://sourcerer.io/arronk)
+- [Github Profile Summary](https://profile-summary-for-github.com/user/arronk)
+- [Codepen Account](https://codepen.io/Arronk/)
 
 I would really like to style my own personal portfolio page better on Github but what I have done so far will have to do for now. For some reason
 Sourcerer isn't picking up my commits to this repo but i'll just have to keep making commits and hopefully one day my pages look as robust as Adnan's!
