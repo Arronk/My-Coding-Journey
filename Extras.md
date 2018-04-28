@@ -78,6 +78,7 @@ Sourcerer isn't picking up my commits to this repo but i'll just have to keep ma
 To further allow me show case my work, help others and meet new people I have set up:
 - [Youtube Channel](https://www.youtube.com/channel/UC_3hCTvtRp2Id9hebPovFEw?view_as=subscriber)
 - [Medium Account](https://medium.com/@arronkennedy)
+
 3. Teach others - To meet this I plan on using my Youtube Channel and Medium Blog to share my journey and do some simple tutorials on things where I struggled
 that may help other code newbie's. My local Perth Freecodecamp group looks pretty dead at the moment and since I now have a laptop I plan
 on trying to revive that and having some meetups as well as setting up a local CoderDojo for kids and others in my local community as there is not much on offer.
