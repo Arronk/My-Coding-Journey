@@ -6,6 +6,7 @@
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
+* [Extras](Extras.md)
 
 ## Day 1-5: 10.04.2018 - 14.04.2018
 

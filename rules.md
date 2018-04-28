@@ -6,6 +6,7 @@
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
+* [Extras](Extras.md)
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*

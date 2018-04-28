@@ -6,6 +6,7 @@
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
+* [Extras](Extras.md)
 
 ## FAQ:
   **Q:** How do I get in touch with the people who are also doing this challenge?  

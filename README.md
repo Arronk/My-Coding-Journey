@@ -1,6 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
 [Github Pages View](https://arronk.github.io/My-Coding-Journey/)
+[sourcerer Page](https://sourcerer.io/arronk)
+[Github Profile Summary](https://profile-summary-for-github.com/user/arronk)
 
 ## Contents
 
@@ -8,6 +10,7 @@
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
+* [Extras](Extras.md)
 
 If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
