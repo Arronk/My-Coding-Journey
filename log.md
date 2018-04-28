@@ -137,3 +137,13 @@ this code along and I think with practice this process should become relatively 
 much requirement for algorithmic thinking, more so just syntax and styling. Video link of the blog below:
 
 [Restful Blog App Video](https://youtu.be/A9-P11b2y_k)
+
+## Day 19: 28.04.2018
+
+### Progress: Did some work on Section 30 - Data Associations and created a new Extras.md file on my my_coding_journey repo
+
+Spent a fair amount of time building my Extras.md addition to my main repository which I hope to share with the community. The article that
+inspired the change really hit home on a few points that I think will add a lot of value to my journey, the people I connect with and the
+content and share with the online community.
+
+[Extras](Extras.md)
