@@ -1,7 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
 - [Github Pages View](https://arronk.github.io/My-Coding-Journey/)
-- [sourcerer Page](https://sourcerer.io/arronk)
+- [Sourcerer Page](https://sourcerer.io/arronk)
 - [Github Profile Summary](https://profile-summary-for-github.com/user/arronk)
 - [Codepen Account](https://codepen.io/Arronk/)
 
