@@ -147,3 +147,11 @@ inspired the change really hit home on a few points that I think will add a lot 
 content and share with the online community.
 
 [Extras](Extras.md)
+
+## Day 20: 29.04.2018
+
+### Progress: Travelling to Sydney so hard to get too much work done. Spent some time reading into how to contribute to FCC Open Source on Github
+
+Did some reading on research on the FCC Github repo as to how to get started making contributions to their beginner and starter issues. Watched another
+video series on contributing to Open Source and how to set up Git and work with repository maintainers. I set up a GIT key for my local PC but I think
+I'll continue to work within the CLoud 9 IDE as I am more familiar with it.
