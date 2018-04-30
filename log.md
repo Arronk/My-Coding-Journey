@@ -155,3 +155,11 @@ content and share with the online community.
 Did some reading on research on the FCC Github repo as to how to get started making contributions to their beginner and starter issues. Watched another
 video series on contributing to Open Source and how to set up Git and work with repository maintainers. I set up a GIT key for my local PC but I think
 I'll continue to work within the CLoud 9 IDE as I am more familiar with it.
+
+## Day 21: 30.04.2018
+
+### Progress: Failing so hard!!!!!!!!!!!!
+
+Spent a couple of hours and had to give up so I could get some sleep for work tomorrow (or later today!) Wanted to get the setup for FCC sorted but couldnt
+figure out how to get a recent enough version of Mongodb via Cloud 9 so tried to set it up on my local computer. Could get Mongod & Mongo working but
+could not for the life of me get the windows service working properly. Try again tomorrow I guess!
