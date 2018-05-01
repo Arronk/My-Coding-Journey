@@ -163,3 +163,11 @@ I'll continue to work within the CLoud 9 IDE as I am more familiar with it.
 Spent a couple of hours and had to give up so I could get some sleep for work tomorrow (or later today!) Wanted to get the setup for FCC sorted but couldnt
 figure out how to get a recent enough version of Mongodb via Cloud 9 so tried to set it up on my local computer. Could get Mongod & Mongo working but
 could not for the life of me get the windows service working properly. Try again tomorrow I guess!
+
+## Day 22: 01.05.2018
+
+### Progress: Still failing, but progress!
+
+Well several more hours trying to set up the development environment to contribute to FCC. They make it so god dam hard, the tutorials are pretty vague
+in a lot of areas. The only thing I have left to do is do the final git bas commands without error and get the clone to work on localost3000. Hoping i'll
+get some assistance to help get me over this last hump because I'm running out of ideas.
