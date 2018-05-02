@@ -171,3 +171,11 @@ could not for the life of me get the windows service working properly. Try again
 Well several more hours trying to set up the development environment to contribute to FCC. They make it so god dam hard, the tutorials are pretty vague
 in a lot of areas. The only thing I have left to do is do the final git bas commands without error and get the clone to work on localost3000. Hoping i'll
 get some assistance to help get me over this last hump because I'm running out of ideas.
+
+## Day 23: 02.05.2018
+
+### Progress: Success.....kinda
+
+Finally managed to get through everything required to get FCC running locally yipee! Hit another hiccup near the finish line with a 3D bug but after 5-6 attempts
+different password links I found one that I got to work as it looked pretty close the comment found on the bug report. Looks like there are no first timer
+issues available on FCC right so I think i'll go back and finish the Web Dev Course off.
