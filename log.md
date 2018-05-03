@@ -179,3 +179,10 @@ get some assistance to help get me over this last hump because I'm running out o
 Finally managed to get through everything required to get FCC running locally yipee! Hit another hiccup near the finish line with a 3D bug but after 5-6 attempts
 different password links I found one that I got to work as it looked pretty close the comment found on the bug report. Looks like there are no first timer
 issues available on FCC right so I think i'll go back and finish the Web Dev Course off.
+
+## Day 24: 03.05.2018
+
+### Progress: Did some further research on the MEAN stack and played around with the setup on my laptop 
+
+Not much too report really, spent a couple of hours reading and playing around with my MEAN stack setup and testing it on my local PC
+
