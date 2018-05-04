@@ -186,3 +186,9 @@ issues available on FCC right so I think i'll go back and finish the Web Dev Cou
 
 Not much too report really, spent a couple of hours reading and playing around with my MEAN stack setup and testing it on my local PC
 
+## Day 25: 04.05.2018
+
+### Progress: Finished working on the MEAN stack setup on my laptop. 
+
+Focused on MVC, how Node.js works and connecting MongoDB. Nothing too exciting and looking forward to getting back to 
+my courses.
