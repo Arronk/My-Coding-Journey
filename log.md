@@ -192,3 +192,10 @@ Not much too report really, spent a couple of hours reading and playing around w
 
 Focused on MVC, how Node.js works and connecting MongoDB. Nothing too exciting and looking forward to getting back to 
 my courses.
+
+## Day 26: 04=5.05.2018
+
+### Progress: Completed Section 31/32 on the Web Dev Bootcamp 
+
+Worked through YelpCamp comments and was introduced to authentication.
+Produced a working authentication login,login,register process.
