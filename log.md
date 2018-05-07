@@ -208,3 +208,12 @@ Added authentication to the YelpCamp site, refactored routes and assigned user
 associations to comments and campgrounds. Added update and destroy functionality
 to the campgrounds and just need make sure that also has authentication controls tomorrow.
 
+## Day 28: 07.05.2018
+
+### Progress: Almost completed Section 35
+
+Training tonight always eats into my coding time but i manage to get in a 
+good hour and half trying to finish off this YelpCamp Project. Hit a couple
+of bugs in my code that took up my time finding and correcting but good
+experience none the less. Added Authorisation controls to edit/delete
+campgrounds plus added an edit button to the comments and created edit/update routes.
