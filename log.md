@@ -217,3 +217,14 @@ good hour and half trying to finish off this YelpCamp Project. Hit a couple
 of bugs in my code that took up my time finding and correcting but good
 experience none the less. Added Authorisation controls to edit/delete
 campgrounds plus added an edit button to the comments and created edit/update routes.
+
+## Day 29: 08.05.2018
+
+### Progress: Completed Section 35 and nearly finished 36 and the end of the YelpCamp Project
+
+"1 step forward and 2 steps back" would sum up tonight pretty well. Decided to slow down the pace
+and spent some of the night styling the login, signup and create/edit pages of the site prior to it
+being done in the code along. Managed to do it pretty easily and did an upate and fresh for each 
+style to see how it effected the rendered page. Also spent some time reviewing bootstrap docs. Got
+stuck for over an hour on a bug to find out it was just a missing "c" in success grrrrrr.... Not long 
+left on the course now I think the hardest part is behind me.
