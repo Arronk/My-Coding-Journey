@@ -228,3 +228,11 @@ being done in the code along. Managed to do it pretty easily and did an upate an
 style to see how it effected the rendered page. Also spent some time reviewing bootstrap docs. Got
 stuck for over an hour on a bug to find out it was just a missing "c" in success grrrrrr.... Not long 
 left on the course now I think the hardest part is behind me.
+
+## Day 30: 09.05.2018
+
+### Progress: Thought I finished Section 36 and then I got to the last slide...
+
+Added a cool landing page, included dynamic price feature and made some 
+minor aesthetic changes. Thought I was finished until I hit the last slide
+which includes a barage of different optional UI improvements.
