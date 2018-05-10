@@ -236,3 +236,11 @@ left on the course now I think the hardest part is behind me.
 Added a cool landing page, included dynamic price feature and made some 
 minor aesthetic changes. Thought I was finished until I hit the last slide
 which includes a barage of different optional UI improvements.
+
+## Day 31: 10.05.2018
+
+### Progress: Had fun completing the optional extras to the YelpCamp Project
+
+Most of the extra components are now added into the project. Managed to finish
+the hamburger menu, pricing feature, google maps location and
+finally the time since created functionality with moment js.
