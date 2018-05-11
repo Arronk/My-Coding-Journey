@@ -244,3 +244,12 @@ which includes a barage of different optional UI improvements.
 Most of the extra components are now added into the project. Managed to finish
 the hamburger menu, pricing feature, google maps location and
 finally the time since created functionality with moment js.
+
+## Day 32: 11.05.2018
+
+### Progress: Added an admin user function to the project and user profile
+
+Still pushing on through these optional extras for the YelpCamp project. I'm really enjoying it. Fixed up the 
+routes so all comments attached to a campground are deleted if the campground gets deleted. Also added user admin
+functionality and a user profile. Still a solid few hours left of coding to finish off all these extras
+over the weekend.
