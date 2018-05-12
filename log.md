@@ -253,3 +253,10 @@ Still pushing on through these optional extras for the YelpCamp project. I'm rea
 routes so all comments attached to a campground are deleted if the campground gets deleted. Also added user admin
 functionality and a user profile. Still a solid few hours left of coding to finish off all these extras
 over the weekend.
+
+## Day 33: 12.05.2018
+
+### Progress: Added fuzzy search and password reset to the YelpCamp Project
+
+Had to deal with a few bugs today but added fuzzy search and a password reset feature. Hoping to get the rest finished in a big day 
+tomorrow.
