@@ -260,3 +260,11 @@ over the weekend.
 
 Had to deal with a few bugs today but added fuzzy search and a password reset feature. Hoping to get the rest finished in a big day 
 tomorrow.
+
+## Day 34: 13.05.2018
+
+### Progress: Finished up the Bootcamp course Yay!
+
+Finally finished the course after successfully deploying it on Heroku. Link provided in the description. What to do next hmmmmm....
+
+[YelpCamp Project](https://yelpcamp-arronk.herokuapp.com/)
