@@ -268,3 +268,11 @@ tomorrow.
 Finally finished the course after successfully deploying it on Heroku. Link provided in the description. What to do next hmmmmm....
 
 [YelpCamp Project](https://yelpcamp-arronk.herokuapp.com/)
+
+# Day 35: 14.05.2018
+
+### Progress: Went back to FCC, went back over the Jquery tutorials quickly and got started on the Tribute Page Project
+
+Nothing too exciting today, decided I would detour back to FCC to re-attempt a couple of FCC front end projects and
+the basic javascript algorithms before I head back to do Colt Steele's advanced web developer bootcamp. Once I have a 
+few projects under my belt without any reference to the answers I think i'll go back to CS50 and finish that off.
