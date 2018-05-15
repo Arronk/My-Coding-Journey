@@ -276,3 +276,9 @@ Finally finished the course after successfully deploying it on Heroku. Link prov
 Nothing too exciting today, decided I would detour back to FCC to re-attempt a couple of FCC front end projects and
 the basic javascript algorithms before I head back to do Colt Steele's advanced web developer bootcamp. Once I have a 
 few projects under my belt without any reference to the answers I think i'll go back to CS50 and finish that off.
+
+# Day 36: 15.05.2018
+
+### Progress: Spent today messing around with VS Code trying to set it all up and playing around with different lint configs 
+
+Nothing exciting, just setting up VScode and setting up linting configs
