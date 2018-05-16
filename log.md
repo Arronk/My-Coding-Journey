@@ -282,3 +282,11 @@ few projects under my belt without any reference to the answers I think i'll go 
 ### Progress: Spent today messing around with VS Code trying to set it all up and playing around with different lint configs 
 
 Nothing exciting, just setting up VScode and setting up linting configs
+
+# Day 37: 16.05.2018
+
+### Progress: Familiarising myself with the Bootstrap 4 extension in VSCode 
+
+Played around with the bootstrap 4 extension in VS Code and raised an issue on the 
+github page for what I believed was incorrect default code for two of the alert triggers.
+Will continue working my way through it this week and then get the tribute page done.
