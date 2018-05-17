@@ -290,3 +290,11 @@ Nothing exciting, just setting up VScode and setting up linting configs
 Played around with the bootstrap 4 extension in VS Code and raised an issue on the 
 github page for what I believed was incorrect default code for two of the alert triggers.
 Will continue working my way through it this week and then get the tribute page done.
+
+# Day 38: 17.05.2018
+
+### Progress: Familiarising myself with the Bootstrap 4 extension in VSCode cont...
+
+I'm about half way through the Bootstrap Documentation. Have made a couple of preliminary items for the tribute
+page along the way. Nothing much else really interesting to report except that I revisted Cybrary today and I
+think i'll finish the Comp TIA A+ course at some point in the near future as it looks really interesting.
