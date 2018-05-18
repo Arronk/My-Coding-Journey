@@ -298,3 +298,9 @@ Will continue working my way through it this week and then get the tribute page 
 I'm about half way through the Bootstrap Documentation. Have made a couple of preliminary items for the tribute
 page along the way. Nothing much else really interesting to report except that I revisted Cybrary today and I
 think i'll finish the Comp TIA A+ course at some point in the near future as it looks really interesting.
+
+# Day 39: 18.05.2018
+
+### Progress: Finish going over the Bootstrap Documentation and did a lot of other reading
+
+Nothing interesting to report, will get the Tribute Page completed tomorrow, no frills.
