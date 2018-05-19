@@ -304,3 +304,13 @@ think i'll finish the Comp TIA A+ course at some point in the near future as it 
 ### Progress: Finish going over the Bootstrap Documentation and did a lot of other reading
 
 Nothing interesting to report, will get the Tribute Page completed tomorrow, no frills.
+
+# Day 40: 19.05.2018
+
+### Progress: Completed the Tribute Page!
+
+Well I realised today I have a whole lot to learn in the realm of website design. Happy that I finished the
+entire project "on my own" only referring to Bootstrap Docs and google search to find answers to queries that I 
+had. I loaded it up on Github and my Codepen Account
+
+[Tribute Page](https://arronk.github.io/Tribute-Page/)
