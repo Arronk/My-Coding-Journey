@@ -269,7 +269,7 @@ Finally finished the course after successfully deploying it on Heroku. Link prov
 
 [YelpCamp Project](https://yelpcamp-arronk.herokuapp.com/)
 
-# Day 35: 14.05.2018
+## Day 35: 14.05.2018
 
 ### Progress: Went back to FCC, went back over the Jquery tutorials quickly and got started on the Tribute Page Project
 
@@ -277,13 +277,13 @@ Nothing too exciting today, decided I would detour back to FCC to re-attempt a c
 the basic javascript algorithms before I head back to do Colt Steele's advanced web developer bootcamp. Once I have a 
 few projects under my belt without any reference to the answers I think i'll go back to CS50 and finish that off.
 
-# Day 36: 15.05.2018
+## Day 36: 15.05.2018
 
 ### Progress: Spent today messing around with VS Code trying to set it all up and playing around with different lint configs 
 
 Nothing exciting, just setting up VScode and setting up linting configs
 
-# Day 37: 16.05.2018
+## Day 37: 16.05.2018
 
 ### Progress: Familiarising myself with the Bootstrap 4 extension in VSCode 
 
@@ -291,7 +291,7 @@ Played around with the bootstrap 4 extension in VS Code and raised an issue on t
 github page for what I believed was incorrect default code for two of the alert triggers.
 Will continue working my way through it this week and then get the tribute page done.
 
-# Day 38: 17.05.2018
+## Day 38: 17.05.2018
 
 ### Progress: Familiarising myself with the Bootstrap 4 extension in VSCode cont...
 
@@ -299,13 +299,13 @@ I'm about half way through the Bootstrap Documentation. Have made a couple of pr
 page along the way. Nothing much else really interesting to report except that I revisted Cybrary today and I
 think i'll finish the Comp TIA A+ course at some point in the near future as it looks really interesting.
 
-# Day 39: 18.05.2018
+## Day 39: 18.05.2018
 
 ### Progress: Finish going over the Bootstrap Documentation and did a lot of other reading
 
 Nothing interesting to report, will get the Tribute Page completed tomorrow, no frills.
 
-# Day 40: 19.05.2018
+## Day 40: 19.05.2018
 
 ### Progress: Completed the Tribute Page!
 
