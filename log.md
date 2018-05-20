@@ -314,3 +314,10 @@ entire project "on my own" only referring to Bootstrap Docs and google search to
 had. I loaded it up on Github and my Codepen Account
 
 [Tribute Page](https://arronk.github.io/Tribute-Page/)
+
+## Day 41: 20.05.2018
+
+### Progress: Did a bit of work on The Advanced Developer Bootcamp and Pair Coded a Blog 
+
+Started progressing through Colt Steele's advanced developer bootcamp and then met a guy to start pair programming with.
+It was good to finally do some pair programming and conversation with another aspiring programmer.
