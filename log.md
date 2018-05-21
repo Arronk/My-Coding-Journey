@@ -321,3 +321,11 @@ had. I loaded it up on Github and my Codepen Account
 
 Started progressing through Colt Steele's advanced developer bootcamp and then met a guy to start pair programming with.
 It was good to finally do some pair programming and conversation with another aspiring programmer.
+
+## Day 42: 21.05.2018
+
+### Progress: A day of research!
+
+Spent the evening trawling the web researching ideas for my portfolio project. I want to learn a lot on this
+portfolio project and I want to do a good job. I found some great resources and made reference to them in 
+file in my working directory. Codrops is an absolutely awesome site!
