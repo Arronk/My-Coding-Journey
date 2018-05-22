@@ -329,3 +329,12 @@ It was good to finally do some pair programming and conversation with another as
 Spent the evening trawling the web researching ideas for my portfolio project. I want to learn a lot on this
 portfolio project and I want to do a good job. I found some great resources and made reference to them in 
 file in my working directory. Codrops is an absolutely awesome site!
+
+## Day 43: 22.05.2018
+
+### Progress: Keyframes & Sunset Cycles
+
+Spent the evening working through Colt Steeles Keyframe exercise for the sunset/sunrise cycle. Changing colour skys, sun and sun arch. 
+
+[Keyframe Sunrise/Sunset](https://codepen.io/Arronk/pen/RydqeK)
+
