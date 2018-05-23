@@ -338,3 +338,12 @@ Spent the evening working through Colt Steeles Keyframe exercise for the sunset/
 
 [Keyframe Sunrise/Sunset](https://codepen.io/Arronk/pen/RydqeK)
 
+## Day 44: 23.05.2018
+
+### Progress: Responsive Sunset Cycles
+
+Really wanted to make my sunset cycle responsive on my own so went about doing just that. I think I did it so it looked nice. Only the iphone 5 resolution looked a bit 
+out of wack but who cares about iphone5 right? Probably lots of people.....
+
+[Keyframe Sunrise/Sunset](https://codepen.io/Arronk/pen/RydqeK)
+
