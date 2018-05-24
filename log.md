@@ -347,3 +347,17 @@ out of wack but who cares about iphone5 right? Probably lots of people.....
 
 [Keyframe Sunrise/Sunset](https://codepen.io/Arronk/pen/RydqeK)
 
+## Day 45: 24.05.2018
+
+### Progress: More Responsive Design with Colt Steeles Advanced Web Developer Bootcamp
+
+Completed a few exercises that were not code alongs which made for an interesting challenge I enjoyed. Just about 
+finished the holy grail responsive design but it's about to hit midnight and I want to make sure I make my daily 
+update in time. Also managed to help somebody on #100daysofCode with responsive nav design which
+which a nice experience. All exercise links below. 
+
+[Responsive Holy Grail](https://codepen.io/Arronk/pen/yjWwPz)
+[Simple Flexbox Nav Starter](https://codepen.io/Arronk/pen/ELzdNN)
+
+
+
