@@ -343,9 +343,7 @@ Spent the evening working through Colt Steeles Keyframe exercise for the sunset/
 ### Progress: Responsive Sunset Cycles
 
 Really wanted to make my sunset cycle responsive on my own so went about doing just that. I think I did it so it looked nice. Only the iphone 5 resolution looked a bit 
-out of wack but who cares about iphone5 right? Probably lots of people.....
-
-[Keyframe Sunrise/Sunset](https://codepen.io/Arronk/pen/RydqeK)
+out of wack but who cares about iphone5 right? Probably lots of people..... 
 
 ## Day 45: 24.05.2018
 
@@ -356,8 +354,8 @@ finished the holy grail responsive design but it's about to hit midnight and I w
 update in time. Also managed to help somebody on #100daysofCode with responsive nav design which
 which a nice experience. All exercise links below. 
 
-[Responsive Holy Grail](https://codepen.io/Arronk/pen/yjWwPz)
-[Simple Flexbox Nav Starter](https://codepen.io/Arronk/pen/ELzdNN)
+- [Responsive Holy Grail](https://codepen.io/Arronk/pen/yjWwPz)
+- [Simple Flexbox Nav Starter](https://codepen.io/Arronk/pen/ELzdNN)
 
 
 
