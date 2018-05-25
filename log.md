@@ -356,6 +356,16 @@ which a nice experience. All exercise links below.
 
 - [Responsive Holy Grail](https://codepen.io/Arronk/pen/yjWwPz)
 - [Simple Flexbox Nav Starter](https://codepen.io/Arronk/pen/ELzdNN)
+- 
+## Day 46: 25.05.2018
+
+### Progress: Finished The CSS Section of Colt's Course
+
+Finished the responsive web site project on Colt's Course and then started researching templates and tried to ascertain 
+whether it is a waste of time to get very good at front end with such strong templates all over the internet already. I think
+having a moderate understanding of the syntax and responsive design should be sufficient. Also spent some time using HTTrack to
+clone some sites and play around with templates to try and learn some of these cool animations.
+
 
 
 
