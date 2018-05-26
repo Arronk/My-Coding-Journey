@@ -356,7 +356,7 @@ which a nice experience. All exercise links below.
 
 - [Responsive Holy Grail](https://codepen.io/Arronk/pen/yjWwPz)
 - [Simple Flexbox Nav Starter](https://codepen.io/Arronk/pen/ELzdNN)
-- 
+
 ## Day 46: 25.05.2018
 
 ### Progress: Finished The CSS Section of Colt's Course
@@ -366,6 +366,15 @@ whether it is a waste of time to get very good at front end with such strong tem
 having a moderate understanding of the syntax and responsive design should be sufficient. Also spent some time using HTTrack to
 clone some sites and play around with templates to try and learn some of these cool animations.
 
+## Day 47: 26.05.2018
+
+### Progress: Finished my Responsive Hero Website Template + Made a Youtube Tutorial
+
+Very happy to have finished the hero website template with what I believe is now a fully responsive design from 300px - 4k.
+Also put together a quick youtube tutorial on using github images in your codepens. Now back to finishing the advanced 
+CSS course on Udemy!
+
+- [Responsive Hero Website Template](https://arronk.github.io/responsive-hero-website-template/)
 
 
 
