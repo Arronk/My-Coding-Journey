@@ -375,6 +375,13 @@ Also put together a quick youtube tutorial on using github images in your codepe
 CSS course on Udemy!
 
 - [Responsive Hero Website Template](https://arronk.github.io/responsive-hero-website-template/)
+- [Images - Github to Codepen Tutorial](https://www.youtube.com/watch?v=oCnwpZtnt5o)
 
+## Day 48: 27.05.2018
 
+### Progress: Progressed in Advanced CSS Course as well as Comp tia a+ on Cybrary
+
+This advanced CSS Course is really great and the instructor is providing some great tips which is helping a lot
+with structuing my CSS more modularly as well as usual shortcuts in my editor. I'm learning a lot and i'm keen to get 
+stuck into the projects more. Also finished all the intro stuff on the comp tia a+ course too.
 
