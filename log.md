@@ -385,3 +385,11 @@ This advanced CSS Course is really great and the instructor is providing some gr
 with structuing my CSS more modularly as well as usual shortcuts in my editor. I'm learning a lot and i'm keen to get 
 stuck into the projects more. Also finished all the intro stuff on the comp tia a+ course too.
 
+## Day 49: 28.05.2018
+
+### Progress: Learned about SASS SCSS and man do I like it! Also watch a couple of Cybrary Vids 
+
+Learning about SASS and SCSS and then compiling it has given me a lot of perspective about how
+I can approach styling in a much more professional manner. That responsive hero website I posted back on day
+47 really needs to be completely redone as I now see it as a messy piece of crap in dire need of refactoring haha.
+
