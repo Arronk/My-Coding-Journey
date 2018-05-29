@@ -393,3 +393,9 @@ Learning about SASS and SCSS and then compiling it has given me a lot of perspec
 I can approach styling in a much more professional manner. That responsive hero website I posted back on day
 47 really needs to be completely redone as I now see it as a messy piece of crap in dire need of refactoring haha.
 
+## Day 45: 29.05.2018
+
+### Progress: Night turned into a shit fight with VS Code and getting the SASS live server to function and compile my code 
+
+Continued with the course but got stuck on bugs in VS Code. Not happy, nothing more to say for tonight!
+
