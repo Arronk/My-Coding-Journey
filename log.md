@@ -406,3 +406,10 @@ Continued with the course but got stuck on bugs in VS Code. Not happy, nothing m
 Managed to fix my VS Code before logging off last which I was quite please with. Today was not as productive as I 
 would have like with several interruptions but I definately got in a solid hour or two of coding and watching vids.
 
+## Day 52: 31.05.2018
+
+### Progress: Created a tutorial vid to help people sign into FCC on the new platform plus progressed with the CSS Course 
+
+Typical night on the computer. When i want to make a quick video I can't use geforce broadcast. Found a tool that did the job
+and then it saved in the wrong format. Long story short I got it working and uploaded to youtube and shared on social media. 
+Hopefully it ends up being helpful to somebody. Continued progressing through the advanced css course and finished the second section of the page.
