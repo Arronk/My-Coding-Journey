@@ -413,3 +413,14 @@ would have like with several interruptions but I definately got in a solid hour 
 Typical night on the computer. When i want to make a quick video I can't use geforce broadcast. Found a tool that did the job
 and then it saved in the wrong format. Long story short I got it working and uploaded to youtube and shared on social media. 
 Hopefully it ends up being helpful to somebody. Continued progressing through the advanced css course and finished the second section of the page.
+
+- [FreeCodeCamp Login Fix](https://www.youtube.com/watch?v=M3GF_MbJiaw)
+
+## Day 53: 01.06.2018
+
+### Progress: Watched more vids on Cyrbary and did a bunch of questions on FCC
+
+Started quite late tonight so just spent a couple of hours doing some easy stuff. Watched some vids on Cyrbary
+about different storage devices and then did quite a few of the new questions in the FCC Curriculum. Plan to spend
+the weekend really going hard on the Advanced CSS Course. I'm hoping I can get the entire course finsihed!
+
