@@ -424,3 +424,11 @@ Started quite late tonight so just spent a couple of hours doing some easy stuff
 about different storage devices and then did quite a few of the new questions in the FCC Curriculum. Plan to spend
 the weekend really going hard on the Advanced CSS Course. I'm hoping I can get the entire course finsihed!
 
+## Day 54: 02.06.2018
+
+### Progress: Finished all the responsive questions on FCC and progressed through the advanced CSS Course
+
+In the AM i did all the responsive section questions in FCC so I just have to finish the 5 projects to finally get a certificate 
+on that platform. In the PM continued on with the Natours project in the advanced CSS course. Spent most of the time trying
+to create this flipping card effect in the code along which was pretty tricky. It is going to take a lot of practice and 
+projects to be able to do this stuff on my own.
