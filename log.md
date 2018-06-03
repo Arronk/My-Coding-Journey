@@ -432,3 +432,10 @@ In the AM i did all the responsive section questions in FCC so I just have to fi
 on that platform. In the PM continued on with the Natours project in the advanced CSS course. Spent most of the time trying
 to create this flipping card effect in the code along which was pretty tricky. It is going to take a lot of practice and 
 projects to be able to do this stuff on my own.
+
+## Day 55: 03.06.2018
+
+### Progress: Completed a big chunk of the Natours Project
+
+Added several new sections to the webpage and lots of animations and functionality. 
+Should have all of part 2 completed tomorrow night and onto the final part to make the site responsive.
