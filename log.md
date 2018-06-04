@@ -439,3 +439,12 @@ projects to be able to do this stuff on my own.
 
 Added several new sections to the webpage and lots of animations and functionality. 
 Should have all of part 2 completed tomorrow night and onto the final part to make the site responsive.
+
+## Day 56: 04.06.2018
+
+### Progress: Finally finished the monster Part 2 of the Natours Project
+
+Pretty unproductive night. Hit a few hiccups in the code along that delayed me, then I helped some guys 
+on gitter with their code. I also realised tonight even though I could copy the elements of this particular
+website again I still have a lot of trouble doing something on my own from scratch. I have to get better
+at designing the layout and framework of the page.
