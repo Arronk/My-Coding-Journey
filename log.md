@@ -448,3 +448,13 @@ Pretty unproductive night. Hit a few hiccups in the code along that delayed me, 
 on gitter with their code. I also realised tonight even though I could copy the elements of this particular
 website again I still have a lot of trouble doing something on my own from scratch. I have to get better
 at designing the layout and framework of the page.
+
+## Day 57: 05.06.2018
+
+### Progress: Progressed through part of the final responsive section of the Natours Project
+
+Watched a few Cybrary vids which I'm starting to just think is a waste of time and then jumped 
+into the final responsive section of the Natours project. Jonas always makes it look so easy and I guess
+it is if you know what you are doing, where to change and styling to do to change it. I guess that all comes
+with time. Still really enjoying the course but this responsive section is not as enjoyable creating the 
+features.
