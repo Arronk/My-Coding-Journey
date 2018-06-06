@@ -458,3 +458,13 @@ into the final responsive section of the Natours project. Jonas always makes it 
 it is if you know what you are doing, where to change and styling to do to change it. I guess that all comes
 with time. Still really enjoying the course but this responsive section is not as enjoyable creating the 
 features.
+
+## Day 58: 06.06.2018
+
+### Progress: Progressed through part of the final responsive section of the Natours Project
+
+Groundhog day! Basically did the same as yesterday watched some vids then continued making 
+the Natours site responsive. I definately feel the same way as yesterday that Jonas rushed 
+this section of his course a little bit smashing out each section without any deep explanation.
+I'll give the popup card a go on my own tomorrow night and try and finish the responsive section and Natours
+Project then load onto Github.
