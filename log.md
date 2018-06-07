@@ -468,3 +468,11 @@ the Natours site responsive. I definately feel the same way as yesterday that Jo
 this section of his course a little bit smashing out each section without any deep explanation.
 I'll give the popup card a go on my own tomorrow night and try and finish the responsive section and Natours
 Project then load onto Github.
+
+## Day 59: 07.06.2018
+
+### Progress: Finished all the video content on the Natours Project 
+
+Finished all of the content on the Natours Project but tomorrow night I would like to finish
+making the popup responsive before loading to Github and saying I have completed it. Looking
+forward to the Flex project that is up next!
