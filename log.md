@@ -476,3 +476,11 @@ Project then load onto Github.
 Finished all of the content on the Natours Project but tomorrow night I would like to finish
 making the popup responsive before loading to Github and saying I have completed it. Looking
 forward to the Flex project that is up next!
+
+## Day 60: 08.06.2018
+
+### Progress: Long day travelling then spending time with family but got some night owl time in 
+
+Trying to get this dam popup responsive for the Natours project so I can call it finished and move on
+but I have trouble with even the simplest of issues. Going to keep going to night and hopefully have it loaded up on
+the gittest of hubs before I go to bed.
