@@ -484,3 +484,19 @@ forward to the Flex project that is up next!
 Trying to get this dam popup responsive for the Natours project so I can call it finished and move on
 but I have trouble with even the simplest of issues. Going to keep going to night and hopefully have it loaded up on
 the gittest of hubs before I go to bed.
+
+## Day 61: 09.06.2018
+
+### Progress: Kept troubleshooting some bugs in the live release of the Natours Project
+
+Did not get as much time as I would have like to in today but still would have got in an hour. Spent some time
+working on fixing minor bugs in the live version of the Natours Project. The animations weren't loading correctly
+and some anchor tags were not playing nice in mobile view which I needed fixed
+
+## Day 62: 09.06.2018
+
+### Progress: Fixed all the Natours bugs started project 2  
+
+Finished the project this morning and I happy with how it all works now from desktop to mobile. It isn't perfect in
+2k-4k monitor range but i'm not overly concerned with that as it does not seem to be a big focus in the web space at 
+this point in time. Now i'm going to get proper stuck into Project 2...cya tomorrow!
