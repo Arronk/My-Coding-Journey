@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+
 - [Github Pages View](https://arronk.github.io/My-Coding-Journey/)
 - [Sourcerer Page](https://sourcerer.io/arronk)
 - [Github Profile Summary](https://profile-summary-for-github.com/user/arronk)

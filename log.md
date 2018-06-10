@@ -501,4 +501,13 @@ Finished the project this morning and I happy with how it all works now from des
 2k-4k monitor range but i'm not overly concerned with that as it does not seem to be a big focus in the web space at 
 this point in time. Now i'm going to get proper stuck into Project 2...cya tomorrow!
 
-[Natours Project](https://arronk.github.io/Natours-sass/)
+- [Natours Project](https://arronk.github.io/Natours-sass/)
+
+## Day 63: 10.06.2018
+
+### Progress: Almost finished the much smaller Project 2 
+
+Started and almost finished the much smaller project 2 which focuses on Flex but Jonas cleverely manages
+to introduce other cool design tricks in to keep things interesting. I'm hoping to have this entire course finished
+by the end of the next week. Met somebody on Twitter today who wants to do the CS50 course so I think i'm going 
+to go back and tackle that one next.
