@@ -511,3 +511,12 @@ Started and almost finished the much smaller project 2 which focuses on Flex but
 to introduce other cool design tricks in to keep things interesting. I'm hoping to have this entire course finished
 by the end of the next week. Met somebody on Twitter today who wants to do the CS50 course so I think i'm going 
 to go back and tackle that one next.
+
+## Day 64: 11.06.2018
+
+### Progress: Finished Project 2 of the Advanced CSS Course
+
+Not much to say, finished the project it was quite fun and I still have lots to learn in regards
+to Flex or more specifically I need to practice, practice, practice! Links to the live demo below.
+
+- [Live Demo](https://arronk.github.io/Trillo/)
