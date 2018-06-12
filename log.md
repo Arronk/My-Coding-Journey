@@ -520,3 +520,11 @@ Not much to say, finished the project it was quite fun and I still have lots to 
 to Flex or more specifically I need to practice, practice, practice! Links to the live demo below.
 
 - [Live Demo](https://arronk.github.io/Trillo/)
+- 
+## Day 65: 12.06.2018
+
+### Progress: Completed all the videos and some small CSS Grid exercises in the Udemy Course
+
+Went through all the intro lessons and exercises for the CSS Grid Course. Will get started on the main
+project tomorrow  with the aim to have the entire course finished by the weekend. My next goal is to 
+complete the responsive certificate on FCC as well as complete CS50.
