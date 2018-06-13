@@ -528,3 +528,12 @@ to Flex or more specifically I need to practice, practice, practice! Links to th
 Went through all the intro lessons and exercises for the CSS Grid Course. Will get started on the main
 project tomorrow  with the aim to have the entire course finished by the weekend. My next goal is to 
 complete the responsive certificate on FCC as well as complete CS50.
+
+## Day 66: 13.06.2018
+
+### Progress: Did some revision on CS50 psets 
+
+Spent some time revising psets from last year so I could refamiliarize myself with C again. It is going 
+to be a difficult unit but I really need to be able to pass the dam intro unit if I really want to pursue
+this path I have started on to become proficient in programming. Also met another guy off twitter who is
+doing the course which should make it more enjoyable to share the journey with.
