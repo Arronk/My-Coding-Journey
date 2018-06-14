@@ -537,3 +537,11 @@ Spent some time revising psets from last year so I could refamiliarize myself wi
 to be a difficult unit but I really need to be able to pass the dam intro unit if I really want to pursue
 this path I have started on to become proficient in programming. Also met another guy off twitter who is
 doing the course which should make it more enjoyable to share the journey with.
+
+## Day 67: 14.06.2018
+
+### Progress: Attended my first meetup and met some interesting people
+
+Attending my first meetup with the Perth Machine Learning Group. It was a bit nerve wracking especially
+at the end having to give a brief summary of our groups conversation but it was enjoyable and now I feel
+I must also begin the fast.ai journey... another thing to add to the list!
