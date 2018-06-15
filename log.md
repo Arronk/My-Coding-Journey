@@ -545,3 +545,12 @@ doing the course which should make it more enjoyable to share the journey with.
 Attending my first meetup with the Perth Machine Learning Group. It was a bit nerve wracking especially
 at the end having to give a brief summary of our groups conversation but it was enjoyable and now I feel
 I must also begin the fast.ai journey... another thing to add to the list!
+
+## Day 68: 15.06.2018
+
+### Progress: About half way through the final Advanced CSS Project
+
+I'm starting the understand the difference between CSS Grid and Flexbox and I am getting to like Grid more
+then I did initially. Hopefully I can get the entire course finished tomorrow which will allow me to move onto 
+CS50 and fast.ai. I have also organised a FCC local meetup which I'm really looking forward. I'm feeling less anxious
+about this one compared to the one on Thursday since I organised it.
