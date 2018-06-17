@@ -525,7 +525,7 @@ to Flex or more specifically I need to practice, practice, practice! Links to th
 
 ### Progress: Completed all the videos and some small CSS Grid exercises in the Udemy Course
 
-Went through all the intro lessons and exercises for the CSS Grid Course. Will get started on the main
+Went through all the intro lessons and exerc3I 111111111111111111111111111111111111111111111111111q1Q+++1ises for the CSS Grid Course. Will get started on the main
 project tomorrow  with the aim to have the entire course finished by the weekend. My next goal is to 
 complete the responsive certificate on FCC as well as complete CS50.
 
@@ -554,3 +554,18 @@ I'm starting the understand the difference between CSS Grid and Flexbox and I am
 then I did initially. Hopefully I can get the entire course finished tomorrow which will allow me to move onto 
 CS50 and fast.ai. I have also organised a FCC local meetup which I'm really looking forward. I'm feeling less anxious
 about this one compared to the one on Thursday since I organised it.
+
+## Day 69: 16.06.2018
+
+### Progress: Part organised and went to my first FCC Meetup
+
+Went to a two hour meetup with a group of other local coders doing the FCC curriculum. I have wrote enough about it 
+on their forums and the Perth FreeCodeCamp forum I won't go into much detail here. It was definately worthwhile and 
+will be doing it again next month.
+
+## Day 70: 17.06.2018
+
+### Progress: Busted my ass on Credit.C for CS50
+
+I have a lot to learn and practice in C and writing programs in general it isn't easy. I managed to get it complete but 
+not without assistance....again. Retraining my brain to thinking in code is not going to happen overnight!
