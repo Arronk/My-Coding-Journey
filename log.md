@@ -569,3 +569,11 @@ will be doing it again next month.
 
 I have a lot to learn and practice in C and writing programs in general it isn't easy. I managed to get it complete but 
 not without assistance....again. Retraining my brain to thinking in code is not going to happen overnight!
+
+## Day 71: 18.06.2018
+
+### Progress: Almost finished off the Advanced CSS Course
+
+Another hour or so and i'll be done with the course. It's been a terrific learning experience but I still have a long
+way to go to master modern front end web design CSS, Flex and Grid. Will host the final project and link tomorrow 
+night.
