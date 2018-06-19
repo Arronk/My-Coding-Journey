@@ -577,3 +577,12 @@ not without assistance....again. Retraining my brain to thinking in code is not 
 Another hour or so and i'll be done with the course. It's been a terrific learning experience but I still have a long
 way to go to master modern front end web design CSS, Flex and Grid. Will host the final project and link tomorrow 
 night.
+
+## Day 72: 19.06.2018
+
+### Progress: Finished the Advanced CSS Course Yay!
+
+Finished the course tonight and made some slight modifications of my own to the site as I did like how 
+Jonas used Grid in the footer so I switched it to flex.
+
+[Nexter Live Demo](https://arronk.github.io/Nexter/)
