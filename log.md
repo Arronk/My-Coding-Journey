@@ -586,3 +586,12 @@ Finished the course tonight and made some slight modifications of my own to the 
 Jonas used Grid in the footer so I switched it to flex.
 
 [Nexter Live Demo](https://arronk.github.io/Nexter/)
+
+## Day 73: 20.06.2018
+
+### Progress: Caught up on some Edx courses i'm enrolled in and watched a CS50 lecture
+
+Taking a break from Udemy Courses to focus on some Edx courses I put on hold and want to catch up on.
+Currently have two intro CS courses, an advanced CSS course and how to do simple code. Should take me a 
+few months to get them all done. I'm hoping to get the first couple of FCC certificates during that time as 
+well.
