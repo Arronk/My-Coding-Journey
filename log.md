@@ -595,3 +595,10 @@ Taking a break from Udemy Courses to focus on some Edx courses I put on hold and
 Currently have two intro CS courses, an advanced CSS course and how to do simple code. Should take me a 
 few months to get them all done. I'm hoping to get the first couple of FCC certificates during that time as 
 well.
+
+## Day 74: 21.06.2018
+
+### Progress: 12-13 hour shift at work. Got home at 10:30pm so just prioritised an hour of revision
+
+Very long day so made sure to prioritise my hour on revision and watching some lectures in preparation for my CS50
+pset Crack that I want to tackle this weekend.
