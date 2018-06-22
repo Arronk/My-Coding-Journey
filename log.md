@@ -602,3 +602,10 @@ well.
 
 Very long day so made sure to prioritise my hour on revision and watching some lectures in preparation for my CS50
 pset Crack that I want to tackle this weekend.
+
+## Day 75: 22.06.2018
+
+### Progress: crack.c is a pain in the ass. Spent the whole just struggling through the syntax.
+
+I am making very slow progress on the crack.c exercise. I struggle the most with the C syntax as I
+find the documentation very hard to read and understand. 
