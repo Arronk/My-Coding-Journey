@@ -609,3 +609,12 @@ pset Crack that I want to tackle this weekend.
 
 I am making very slow progress on the crack.c exercise. I struggle the most with the C syntax as I
 find the documentation very hard to read and understand. 
+
+## Day 76: 23.06.2018
+
+### Progress: Finished Crack.c last night and got it submitted for full marks yipee
+
+Once I figured out some of the C syntax bugs I was having the rest of the problem was relatively
+straight forward. The algo was definately not as efficient as I am sure it could be but it did the trick
+for up to 5 elements. It would definately become unmanigable if numbers, symbols or more digits came into
+play.
