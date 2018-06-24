@@ -618,3 +618,13 @@ Once I figured out some of the C syntax bugs I was having the rest of the proble
 straight forward. The algo was definately not as efficient as I am sure it could be but it did the trick
 for up to 5 elements. It would definately become unmanigable if numbers, symbols or more digits came into
 play.
+
+## Day 77: 24.06.2018
+
+### Progress: Finished a small edX Course of called Advanced CSS Concepts
+
+Had a busy day with the family and did not feel like getting stuck into the music pset on a Sunday
+arvo. Had a small CSS course that needed finishing before it expired so I gave that a crack and achieved
+the required pass rate to finish the course. I was quite dissappointed with this course and thought the 
+previous Udemy Course was leagues ahead of it so I just skimmed through it and did not give it too 
+much of my time.
