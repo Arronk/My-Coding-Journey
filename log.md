@@ -628,3 +628,10 @@ arvo. Had a small CSS course that needed finishing before it expired so I gave t
 the required pass rate to finish the course. I was quite dissappointed with this course and thought the 
 previous Udemy Course was leagues ahead of it so I just skimmed through it and did not give it too 
 much of my time.
+
+## Day 78: 25.06.2018
+
+### Progress: Travel day so just watched some Cyrbary Vids and did JS exercises on FCC
+
+Spent most of the day on the plane so just going to focus on tackling some JS exercises on FCC and 
+watch a few Cybrary Vids then call it a day. Music with CS50 will be the focus of this week.
