@@ -635,3 +635,11 @@ much of my time.
 
 Spent most of the day on the plane so just going to focus on tackling some JS exercises on FCC and 
 watch a few Cybrary Vids then call it a day. Music with CS50 will be the focus of this week.
+
+## Day 79: 26.06.2018
+
+### Progress: Spent a couple of hours stuck on the Record Collection Exercise on FCC
+
+Got stuck for waaaaay too long on the record collection exercise on FCC to finally realise my error 
+was due to not using a double = sign to test for equality. Got there in the end so alls well that ends 
+well I guess.
