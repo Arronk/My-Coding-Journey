@@ -643,3 +643,11 @@ watch a few Cybrary Vids then call it a day. Music with CS50 will be the focus o
 Got stuck for waaaaay too long on the record collection exercise on FCC to finally realise my error 
 was due to not using a double = sign to test for equality. Got there in the end so alls well that ends 
 well I guess.
+
+## Day 80: 27.06.2018
+
+### Progress: Unrpoductive night ended up with some FCC exercises completed
+
+Ended up having lots of non-coding distractions and delays tonight and watched the final episode
+of Mr. Robot for season 2. Managed to get my hour in though and progressed through a few challenges in
+the ES6 portion of the the FCC curriculum.
