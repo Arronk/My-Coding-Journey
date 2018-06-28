@@ -651,3 +651,12 @@ well I guess.
 Ended up having lots of non-coding distractions and delays tonight and watched the final episode
 of Mr. Robot for season 2. Managed to get my hour in though and progressed through a few challenges in
 the ES6 portion of the the FCC curriculum.
+
+## Day 81: 28.06.2018
+
+### Progress: Tried my best to progress through the ES6 section of the FCC Curriculum
+
+Man i am struggling with ES6. It seems like they have taken easy to understand code and shortened it 
+all to the point of being very confusing. I've struggled all night and found reading the docs did not help
+with answering the questions leading the reviewing answers on the forums which I hate doing as I know this 
+isn't productive learning. FRUSTRATED
