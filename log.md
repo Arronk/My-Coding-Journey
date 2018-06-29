@@ -660,3 +660,10 @@ Man i am struggling with ES6. It seems like they have taken easy to understand c
 all to the point of being very confusing. I've struggled all night and found reading the docs did not help
 with answering the questions leading the reviewing answers on the forums which I hate doing as I know this 
 isn't productive learning. FRUSTRATED
+
+## Day 82: 29.06.2018
+
+### Progress: Left my charger at work going out for a beer. rushed the rest of the ES6 section of FCC
+
+Still hating on ES6 but I can see how I would use it as get more comfortable with javascript and coding in
+general. 
