@@ -667,3 +667,11 @@ isn't productive learning. FRUSTRATED
 
 Still hating on ES6 but I can see how I would use it as get more comfortable with javascript and coding in
 general. 
+
+## Day 83: 30.06.2018
+
+### Progress: Pushed through Regular Expressions in FCC
+
+Not getting much time to code due to work constraints but managed to fit in a solid hour on Regular
+Expressions and almost knocked the entire FCC section on the head in one sitting. This section is very easy
+however and some of the exercises have broken tests. Will raise and issue to resolve it.
