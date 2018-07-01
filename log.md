@@ -675,3 +675,12 @@ general.
 Not getting much time to code due to work constraints but managed to fit in a solid hour on Regular
 Expressions and almost knocked the entire FCC section on the head in one sitting. This section is very easy
 however and some of the exercises have broken tests. Will raise and issue to resolve it.
+
+## Day 84: 01.07.2018
+
+### Progress: Finished Regex, debugging and started on Basic Data Structures
+
+Managed to progress some more through the FCC curriculum today. I am finding the debugging and basic data 
+structures section quite easy as I have done quite a bit of work already in these area on some past projects
+as part of Udemy courses. Taking the rest of the night off to watch TAU.
+
