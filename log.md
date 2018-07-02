@@ -684,3 +684,11 @@ Managed to progress some more through the FCC curriculum today. I am finding the
 structures section quite easy as I have done quite a bit of work already in these area on some past projects
 as part of Udemy courses. Taking the rest of the night off to watch TAU.
 
+## Day 85: 02.07.2018
+
+### Progress: Progressed half way through the basic data structures on FCC
+
+Had a bit of a lazy night but got in my hour and progressed through half the basic data structures component
+of the FCC curriculum. I'm please that I instinctly chose to use terniary operators instead of if statements and have
+found to have understand all questions so far reasonably well with some general review of MDN to check syntax.
+
