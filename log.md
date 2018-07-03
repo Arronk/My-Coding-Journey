@@ -692,3 +692,11 @@ Had a bit of a lazy night but got in my hour and progressed through half the bas
 of the FCC curriculum. I'm please that I instinctly chose to use terniary operators instead of if statements and have
 found to have understand all questions so far reasonably well with some general review of MDN to check syntax.
 
+## Day 86: 03.07.2018
+
+### Progress: Finished the basic data structures section of FCC and recompleted some basic algo exercises
+
+Quite please with myself tonight as I really figured out the solutions in way that was methodical and logical
+and made me feel like I was really starting to understand JS on a deeper level. I referred to MDN a few times but 
+never took any hints. I also easily completed some basic algorithms which I remember I had to look for the answer to
+a while ago when I first attempted them.
