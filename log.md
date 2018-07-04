@@ -700,3 +700,10 @@ Quite please with myself tonight as I really figured out the solutions in way th
 and made me feel like I was really starting to understand JS on a deeper level. I referred to MDN a few times but 
 never took any hints. I also easily completed some basic algorithms which I remember I had to look for the answer to
 a while ago when I first attempted them.
+
+## Day 87: 04.07.2018
+
+### Progress: Tried to do a small side project on AWS Lambda following an article I read today
+
+On top of the little Lambda exercise I setup our next FCC meetup for next Saturday with the help of 
+Karen and got the new meetup page up and running. I'm curious to know how far this little group may grow over the coming months.
