@@ -707,3 +707,11 @@ a while ago when I first attempted them.
 
 On top of the little Lambda exercise I setup our next FCC meetup for next Saturday with the help of 
 Karen and got the new meetup page up and running. I'm curious to know how far this little group may grow over the coming months.
+
+## Day 88: 05.07.2018
+
+### Progress: Did a basic algo exercise on FCC and did some reading on some of the advanced answers
+
+Another night another basic challenge passed without looking at any hints. Very happy with my progress at the moment.
+Trying to spend some time looking at the more advanced solutions and I must say they are at another level but I can 
+only get better by reading them and becoming familiar.
