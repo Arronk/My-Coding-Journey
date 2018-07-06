@@ -715,3 +715,11 @@ Karen and got the new meetup page up and running. I'm curious to know how far th
 Another night another basic challenge passed without looking at any hints. Very happy with my progress at the moment.
 Trying to spend some time looking at the more advanced solutions and I must say they are at another level but I can 
 only get better by reading them and becoming familiar.
+
+## Day 89: 06.07.2018
+
+### Progress: Spent the evening working on Music PSET 3 in CS50 
+
+Well i'm back working on C for CS50 now that I am on home soil again. Like usual the C syntax
+is slowing me down significantly but i'm making steady progress. Currently stuck on testing my ternary 
+operator syntax I am trying to implement to shorten the code in one of my functions.
