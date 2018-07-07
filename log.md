@@ -723,3 +723,10 @@ only get better by reading them and becoming familiar.
 Well i'm back working on C for CS50 now that I am on home soil again. Like usual the C syntax
 is slowing me down significantly but i'm making steady progress. Currently stuck on testing my ternary 
 operator syntax I am trying to implement to shorten the code in one of my functions.
+
+## Day 90: 07.07.2018
+
+### Progress: Almost finished the final function in PSET3
+
+Will hopefully have PSET3 finalised tomorrow, just need to finish frequency off. It was late when I got started 
+so I decided to fit in the Week 3 lecture as well. 10 days to go for Round 1!
