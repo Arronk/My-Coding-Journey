@@ -730,3 +730,10 @@ operator syntax I am trying to implement to shorten the code in one of my functi
 
 Will hopefully have PSET3 finalised tomorrow, just need to finish frequency off. It was late when I got started 
 so I decided to fit in the Week 3 lecture as well. 10 days to go for Round 1!
+
+## Day 91: 08.07.2018
+
+### Progress: Attended an Open Source Hack Meetup 
+
+Went to an open source hack meetup which was pretty dead. Fortunately another member of the FCC meetup group
+came along se we got to setup the FCC local environment on our laptops and do our best to contribute to open source.
