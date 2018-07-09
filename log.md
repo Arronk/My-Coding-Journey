@@ -737,3 +737,12 @@ so I decided to fit in the Week 3 lecture as well. 10 days to go for Round 1!
 
 Went to an open source hack meetup which was pretty dead. Fortunately another member of the FCC meetup group
 came along se we got to setup the FCC local environment on our laptops and do our best to contribute to open source.
+
+## Day 92: 09.07.2018
+
+### Progress: Almost finished the Basic Algo Section of FCC
+
+Had a good run on the algo's tonight doing all but one without any assistance. I did get stuck on the Slice &
+splice one however as I just couldn't get my head around the syntax and I was pretty tired at that stage. The previous challenge
+converting a string so that all first letters of each word is capital took me a while as well but I managed to get there in the 
+end once I could figure out how to isolate the first character with charAt
