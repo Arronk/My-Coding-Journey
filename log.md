@@ -746,3 +746,12 @@ Had a good run on the algo's tonight doing all but one without any assistance. I
 splice one however as I just couldn't get my head around the syntax and I was pretty tired at that stage. The previous challenge
 converting a string so that all first letters of each word is capital took me a while as well but I managed to get there in the 
 end once I could figure out how to isolate the first character with charAt
+
+## Day 93: 10.07.2018
+
+### Progress: Finished the last 3 basic Algo challenges tonight....small win
+
+Had fun finishing off the basic algo challenges tonight. I think my ability to solve these problems will improve
+as my understanding and memory of the JS methods improves. It was surpised to see one of my solutions was quite 
+different to any of the provided solutions for one of the question using regex. I needed a bit of assistance to implement
+my regex exactly how I wanted but I got there in the end.
