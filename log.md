@@ -755,3 +755,14 @@ Had fun finishing off the basic algo challenges tonight. I think my ability to s
 as my understanding and memory of the JS methods improves. It was surpised to see one of my solutions was quite 
 different to any of the provided solutions for one of the question using regex. I needed a bit of assistance to implement
 my regex exactly how I wanted but I got there in the end.
+
+## Day 94: 11.07.2018
+
+### Progress: Finished OOP and half of the Functional Programming Exercises
+
+The exercises in OOP was quite easy and I breezed through them tonight. This is not saying I understand
+OOP yet though. I really need to get more practice utilising this programming approach
+in real problems before I think it sinks in. As for functional programming this is harder
+to grasp but I think FCC is spending sufficient time focusing on what functional programming is at it's core.
+It appears I will learn more about map, filter reduce which is definately something I want 
+to become more comfortable with.
