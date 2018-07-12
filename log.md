@@ -766,3 +766,11 @@ in real problems before I think it sinks in. As for functional programming this 
 to grasp but I think FCC is spending sufficient time focusing on what functional programming is at it's core.
 It appears I will learn more about map, filter reduce which is definately something I want 
 to become more comfortable with.
+
+## Day 95: 12.07.2018
+
+### Progress: Functional programming and callback functions - the new learning wall
+
+All this functional programming and callback stuff is going way over my head. I think I am going to have to find a better 
+resource then FreeCodeCamp for the time being to research some more and come back as I don't want to just be referring to the
+answers every time and effectively learn nothing in the process.
