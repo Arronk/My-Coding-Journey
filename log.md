@@ -774,3 +774,12 @@ to become more comfortable with.
 All this functional programming and callback stuff is going way over my head. I think I am going to have to find a better 
 resource then FreeCodeCamp for the time being to research some more and come back as I don't want to just be referring to the
 answers every time and effectively learn nothing in the process.
+
+## Day 96: 13.07.2018
+
+### Progress: Had a problem today at work which required an algo solution which I solved
+
+Had fun today working out an algo solution that calculates how many possible variations of pricing tender
+submissions we would have to submit based on the number of contracts that were up for negotiation. The formula
+worked out to be answer = 2^numContracts - 1 which I got through trial and error but still not sure why that ended
+up being the growth pattern.
