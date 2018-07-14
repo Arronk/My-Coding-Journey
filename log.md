@@ -783,3 +783,10 @@ Had fun today working out an algo solution that calculates how many possible var
 submissions we would have to submit based on the number of contracts that were up for negotiation. The formula
 worked out to be answer = 2^numContracts - 1 which I got through trial and error but still not sure why that ended
 up being the growth pattern.
+
+## Day 97: 14.07.2018
+
+### Progress: Organised a monthly meetup for Freecodecamp - 9 people this time!
+
+Not much coding today just spent a couple of hours at a freecodecamp meet up as part of my extra criteria for
+100daysofcode. Had a great time and met a couple of new people. Really looking forward to the next one.
