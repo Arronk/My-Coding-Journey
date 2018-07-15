@@ -790,3 +790,9 @@ up being the growth pattern.
 
 Not much coding today just spent a couple of hours at a freecodecamp meet up as part of my extra criteria for
 100daysofcode. Had a great time and met a couple of new people. Really looking forward to the next one.
+
+## Day 98: 14.07.2018
+
+### Progress: Went back to CS50 and music
+
+Made some progress on the final function in music. Hopefully I can get it done before my first 100 days have finished!
