@@ -796,3 +796,11 @@ Not much coding today just spent a couple of hours at a freecodecamp meet up as 
 ### Progress: Went back to CS50 and music
 
 Made some progress on the final function in music. Hopefully I can get it done before my first 100 days have finished!
+
+## Day 99: 15.07.2018
+
+### Progress: Music is giving me a hard time but I will continue to try and get it finished 
+
+I'm finding my code very WET so i'm stalled a bit trying to refactor it so i'm not doubling up everything that I type.
+Swapping between C and Javascript is a pain, I miss JS so much when coming to C, everything is so long and drawn out to get 
+to an answer.
