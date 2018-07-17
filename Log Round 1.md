@@ -4,7 +4,8 @@
 
 * [Home](README.md)
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log Round 1 - Archive](log Round 1.md)
+* [Log Round 2 - Check my current progress](log Round 2.md)
 * [FAQ](FAQ.md)
 * [Extras](Extras.md)
 
@@ -493,7 +494,7 @@ Did not get as much time as I would have like to in today but still would have g
 working on fixing minor bugs in the live version of the Natours Project. The animations weren't loading correctly
 and some anchor tags were not playing nice in mobile view which I needed fixed
 
-## Day 62: 09.06.2018
+## Day 62: 10.06.2018
 
 ### Progress: Fixed all the Natours bugs started project 2  
 
@@ -503,7 +504,7 @@ this point in time. Now i'm going to get proper stuck into Project 2...cya tomor
 
 - [Natours Project](https://arronk.github.io/Natours-sass/)
 
-## Day 63: 10.06.2018
+## Day 63: 11.06.2018
 
 ### Progress: Almost finished the much smaller Project 2 
 
@@ -512,7 +513,7 @@ to introduce other cool design tricks in to keep things interesting. I'm hoping 
 by the end of the next week. Met somebody on Twitter today who wants to do the CS50 course so I think i'm going 
 to go back and tackle that one next.
 
-## Day 64: 11.06.2018
+## Day 64: 12.06.2018
 
 ### Progress: Finished Project 2 of the Advanced CSS Course
 
@@ -521,15 +522,15 @@ to Flex or more specifically I need to practice, practice, practice! Links to th
 
 - [Live Demo](https://arronk.github.io/Trillo/)
 - 
-## Day 65: 12.06.2018
+## Day 65: 13.06.2018
 
 ### Progress: Completed all the videos and some small CSS Grid exercises in the Udemy Course
 
-Went through all the intro lessons and exerc3I 111111111111111111111111111111111111111111111111111q1Q+++1ises for the CSS Grid Course. Will get started on the main
+Went through all the intro lessons and exercises for the CSS Grid Course. Will get started on the main
 project tomorrow  with the aim to have the entire course finished by the weekend. My next goal is to 
 complete the responsive certificate on FCC as well as complete CS50.
 
-## Day 66: 13.06.2018
+## Day 66: 14.06.2018
 
 ### Progress: Did some revision on CS50 psets 
 
@@ -538,7 +539,7 @@ to be a difficult unit but I really need to be able to pass the dam intro unit i
 this path I have started on to become proficient in programming. Also met another guy off twitter who is
 doing the course which should make it more enjoyable to share the journey with.
 
-## Day 67: 14.06.2018
+## Day 67: 15.06.2018
 
 ### Progress: Attended my first meetup and met some interesting people
 
@@ -546,7 +547,7 @@ Attending my first meetup with the Perth Machine Learning Group. It was a bit ne
 at the end having to give a brief summary of our groups conversation but it was enjoyable and now I feel
 I must also begin the fast.ai journey... another thing to add to the list!
 
-## Day 68: 15.06.2018
+## Day 68: 16.06.2018
 
 ### Progress: About half way through the final Advanced CSS Project
 
@@ -555,7 +556,7 @@ then I did initially. Hopefully I can get the entire course finished tomorrow wh
 CS50 and fast.ai. I have also organised a FCC local meetup which I'm really looking forward. I'm feeling less anxious
 about this one compared to the one on Thursday since I organised it.
 
-## Day 69: 16.06.2018
+## Day 69: 17.06.2018
 
 ### Progress: Part organised and went to my first FCC Meetup
 
@@ -563,14 +564,14 @@ Went to a two hour meetup with a group of other local coders doing the FCC curri
 on their forums and the Perth FreeCodeCamp forum I won't go into much detail here. It was definately worthwhile and 
 will be doing it again next month.
 
-## Day 70: 17.06.2018
+## Day 70: 18.06.2018
 
 ### Progress: Busted my ass on Credit.C for CS50
 
 I have a lot to learn and practice in C and writing programs in general it isn't easy. I managed to get it complete but 
 not without assistance....again. Retraining my brain to thinking in code is not going to happen overnight!
 
-## Day 71: 18.06.2018
+## Day 71: 19.06.2018
 
 ### Progress: Almost finished off the Advanced CSS Course
 
@@ -578,7 +579,7 @@ Another hour or so and i'll be done with the course. It's been a terrific learni
 way to go to master modern front end web design CSS, Flex and Grid. Will host the final project and link tomorrow 
 night.
 
-## Day 72: 19.06.2018
+## Day 72: 20.06.2018
 
 ### Progress: Finished the Advanced CSS Course Yay!
 
@@ -587,7 +588,7 @@ Jonas used Grid in the footer so I switched it to flex.
 
 [Nexter Live Demo](https://arronk.github.io/Nexter/)
 
-## Day 73: 20.06.2018
+## Day 73: 21.06.2018
 
 ### Progress: Caught up on some Edx courses i'm enrolled in and watched a CS50 lecture
 
@@ -596,21 +597,21 @@ Currently have two intro CS courses, an advanced CSS course and how to do simple
 few months to get them all done. I'm hoping to get the first couple of FCC certificates during that time as 
 well.
 
-## Day 74: 21.06.2018
+## Day 74: 22.06.2018
 
 ### Progress: 12-13 hour shift at work. Got home at 10:30pm so just prioritised an hour of revision
 
 Very long day so made sure to prioritise my hour on revision and watching some lectures in preparation for my CS50
 pset Crack that I want to tackle this weekend.
 
-## Day 75: 22.06.2018
+## Day 75: 23.06.2018
 
 ### Progress: crack.c is a pain in the ass. Spent the whole just struggling through the syntax.
 
 I am making very slow progress on the crack.c exercise. I struggle the most with the C syntax as I
 find the documentation very hard to read and understand. 
 
-## Day 76: 23.06.2018
+## Day 76: 24.06.2018
 
 ### Progress: Finished Crack.c last night and got it submitted for full marks yipee
 
@@ -619,7 +620,7 @@ straight forward. The algo was definately not as efficient as I am sure it could
 for up to 5 elements. It would definately become unmanigable if numbers, symbols or more digits came into
 play.
 
-## Day 77: 24.06.2018
+## Day 77: 25.06.2018
 
 ### Progress: Finished a small edX Course of called Advanced CSS Concepts
 
@@ -629,14 +630,14 @@ the required pass rate to finish the course. I was quite dissappointed with this
 previous Udemy Course was leagues ahead of it so I just skimmed through it and did not give it too 
 much of my time.
 
-## Day 78: 25.06.2018
+## Day 78: 26.06.2018
 
 ### Progress: Travel day so just watched some Cyrbary Vids and did JS exercises on FCC
 
 Spent most of the day on the plane so just going to focus on tackling some JS exercises on FCC and 
 watch a few Cybrary Vids then call it a day. Music with CS50 will be the focus of this week.
 
-## Day 79: 26.06.2018
+## Day 79: 27.06.2018
 
 ### Progress: Spent a couple of hours stuck on the Record Collection Exercise on FCC
 
@@ -644,7 +645,7 @@ Got stuck for waaaaay too long on the record collection exercise on FCC to final
 was due to not using a double = sign to test for equality. Got there in the end so alls well that ends 
 well I guess.
 
-## Day 80: 27.06.2018
+## Day 80: 28.06.2018
 
 ### Progress: Unrpoductive night ended up with some FCC exercises completed
 
@@ -652,7 +653,7 @@ Ended up having lots of non-coding distractions and delays tonight and watched t
 of Mr. Robot for season 2. Managed to get my hour in though and progressed through a few challenges in
 the ES6 portion of the the FCC curriculum.
 
-## Day 81: 28.06.2018
+## Day 81: 29.06.2018
 
 ### Progress: Tried my best to progress through the ES6 section of the FCC Curriculum
 
@@ -661,14 +662,14 @@ all to the point of being very confusing. I've struggled all night and found rea
 with answering the questions leading the reviewing answers on the forums which I hate doing as I know this 
 isn't productive learning. FRUSTRATED
 
-## Day 82: 29.06.2018
+## Day 82: 30.06.2018
 
 ### Progress: Left my charger at work going out for a beer. rushed the rest of the ES6 section of FCC
 
 Still hating on ES6 but I can see how I would use it as get more comfortable with javascript and coding in
 general. 
 
-## Day 83: 30.06.2018
+## Day 83: 1.07.2018
 
 ### Progress: Pushed through Regular Expressions in FCC
 
@@ -676,7 +677,7 @@ Not getting much time to code due to work constraints but managed to fit in a so
 Expressions and almost knocked the entire FCC section on the head in one sitting. This section is very easy
 however and some of the exercises have broken tests. Will raise and issue to resolve it.
 
-## Day 84: 01.07.2018
+## Day 84: 02.07.2018
 
 ### Progress: Finished Regex, debugging and started on Basic Data Structures
 
@@ -684,7 +685,7 @@ Managed to progress some more through the FCC curriculum today. I am finding the
 structures section quite easy as I have done quite a bit of work already in these area on some past projects
 as part of Udemy courses. Taking the rest of the night off to watch TAU.
 
-## Day 85: 02.07.2018
+## Day 85: 03.07.2018
 
 ### Progress: Progressed half way through the basic data structures on FCC
 
@@ -692,7 +693,7 @@ Had a bit of a lazy night but got in my hour and progressed through half the bas
 of the FCC curriculum. I'm please that I instinctly chose to use terniary operators instead of if statements and have
 found to have understand all questions so far reasonably well with some general review of MDN to check syntax.
 
-## Day 86: 03.07.2018
+## Day 86: 04.07.2018
 
 ### Progress: Finished the basic data structures section of FCC and recompleted some basic algo exercises
 
@@ -701,14 +702,14 @@ and made me feel like I was really starting to understand JS on a deeper level. 
 never took any hints. I also easily completed some basic algorithms which I remember I had to look for the answer to
 a while ago when I first attempted them.
 
-## Day 87: 04.07.2018
+## Day 87: 05.07.2018
 
 ### Progress: Tried to do a small side project on AWS Lambda following an article I read today
 
 On top of the little Lambda exercise I setup our next FCC meetup for next Saturday with the help of 
 Karen and got the new meetup page up and running. I'm curious to know how far this little group may grow over the coming months.
 
-## Day 88: 05.07.2018
+## Day 88: 06.07.2018
 
 ### Progress: Did a basic algo exercise on FCC and did some reading on some of the advanced answers
 
@@ -716,7 +717,7 @@ Another night another basic challenge passed without looking at any hints. Very 
 Trying to spend some time looking at the more advanced solutions and I must say they are at another level but I can 
 only get better by reading them and becoming familiar.
 
-## Day 89: 06.07.2018
+## Day 89: 07.07.2018
 
 ### Progress: Spent the evening working on Music PSET 3 in CS50 
 
@@ -724,21 +725,21 @@ Well i'm back working on C for CS50 now that I am on home soil again. Like usual
 is slowing me down significantly but i'm making steady progress. Currently stuck on testing my ternary 
 operator syntax I am trying to implement to shorten the code in one of my functions.
 
-## Day 90: 07.07.2018
+## Day 90: 08.07.2018
 
 ### Progress: Almost finished the final function in PSET3
 
 Will hopefully have PSET3 finalised tomorrow, just need to finish frequency off. It was late when I got started 
 so I decided to fit in the Week 3 lecture as well. 10 days to go for Round 1!
 
-## Day 91: 08.07.2018
+## Day 91: 09.07.2018
 
 ### Progress: Attended an Open Source Hack Meetup 
 
 Went to an open source hack meetup which was pretty dead. Fortunately another member of the FCC meetup group
 came along se we got to setup the FCC local environment on our laptops and do our best to contribute to open source.
 
-## Day 92: 09.07.2018
+## Day 92: 10.07.2018
 
 ### Progress: Almost finished the Basic Algo Section of FCC
 
@@ -747,7 +748,7 @@ splice one however as I just couldn't get my head around the syntax and I was pr
 converting a string so that all first letters of each word is capital took me a while as well but I managed to get there in the 
 end once I could figure out how to isolate the first character with charAt
 
-## Day 93: 10.07.2018
+## Day 93: 11.07.2018
 
 ### Progress: Finished the last 3 basic Algo challenges tonight....small win
 
@@ -756,7 +757,7 @@ as my understanding and memory of the JS methods improves. It was surpised to se
 different to any of the provided solutions for one of the question using regex. I needed a bit of assistance to implement
 my regex exactly how I wanted but I got there in the end.
 
-## Day 94: 11.07.2018
+## Day 94: 12.07.2018
 
 ### Progress: Finished OOP and half of the Functional Programming Exercises
 
@@ -767,7 +768,7 @@ to grasp but I think FCC is spending sufficient time focusing on what functional
 It appears I will learn more about map, filter reduce which is definately something I want 
 to become more comfortable with.
 
-## Day 95: 12.07.2018
+## Day 95: 13.07.2018
 
 ### Progress: Functional programming and callback functions - the new learning wall
 
@@ -775,7 +776,7 @@ All this functional programming and callback stuff is going way over my head. I 
 resource then FreeCodeCamp for the time being to research some more and come back as I don't want to just be referring to the
 answers every time and effectively learn nothing in the process.
 
-## Day 96: 13.07.2018
+## Day 96: 14.07.2018
 
 ### Progress: Had a problem today at work which required an algo solution which I solved
 
@@ -784,20 +785,20 @@ submissions we would have to submit based on the number of contracts that were u
 worked out to be answer = 2^numContracts - 1 which I got through trial and error but still not sure why that ended
 up being the growth pattern.
 
-## Day 97: 14.07.2018
+## Day 97: 15.07.2018
 
 ### Progress: Organised a monthly meetup for Freecodecamp - 9 people this time!
 
 Not much coding today just spent a couple of hours at a freecodecamp meet up as part of my extra criteria for
 100daysofcode. Had a great time and met a couple of new people. Really looking forward to the next one.
 
-## Day 98: 14.07.2018
+## Day 98: 16.07.2018
 
 ### Progress: Went back to CS50 and music
 
 Made some progress on the final function in music. Hopefully I can get it done before my first 100 days have finished!
 
-## Day 99: 15.07.2018
+## Day 99: 17.07.2018
 
 ### Progress: Music is giving me a hard time but I will continue to try and get it finished 
 
@@ -805,11 +806,12 @@ I'm finding my code very WET so i'm stalled a bit trying to refactor it so i'm n
 Swapping between C and Javascript is a pain, I miss JS so much when coming to C, everything is so long and drawn out to get 
 to an answer.
 
-## Day 100: 16.07.2018
+## Day 100: 18.07.2018
 
-### Progress: Finished this round on a high note, finished music and got 100%
+### Progress: Almost finished this round and tonight I finished music and got 100%
 
 I really enjoyed the tail end of the music pset as I just knew how to tackle all the problems I had to overcome without much issue.
 I kenw when to bring in a switch statement and implemented it flawlessly, I knew when to use ternary operators to store variables
 in a clean concise manner, I overcame the float issues to ensure the frequency was right and finished as an Int. I've never enjoyed
-listening to the bday jingle as much in my whole life haha.
+listening to the bday jingle as much in my whole life haha. I some how jumped a day in front of my log so i'll just cram two days worth of 
+work into this final post as I know I never missed a day over the last 100 days but my log is one day in front. Very confused!
