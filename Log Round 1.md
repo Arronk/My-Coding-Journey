@@ -1,4 +1,4 @@
-# 100 Days of Code - Log
+# 100 Days of Code - Log Round 1
 
 ## Contents
 
@@ -804,3 +804,12 @@ Made some progress on the final function in music. Hopefully I can get it done b
 I'm finding my code very WET so i'm stalled a bit trying to refactor it so i'm not doubling up everything that I type.
 Swapping between C and Javascript is a pain, I miss JS so much when coming to C, everything is so long and drawn out to get 
 to an answer.
+
+## Day 100: 16.07.2018
+
+### Progress: Finished this round on a high note, finished music and got 100%
+
+I really enjoyed the tail end of the music pset as I just knew how to tackle all the problems I had to overcome without much issue.
+I kenw when to bring in a switch statement and implemented it flawlessly, I knew when to use ternary operators to store variables
+in a clean concise manner, I overcame the float issues to ensure the frequency was right and finished as an Int. I've never enjoyed
+listening to the bday jingle as much in my whole life haha.
