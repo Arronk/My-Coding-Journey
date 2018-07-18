@@ -815,3 +815,5 @@ I kenw when to bring in a switch statement and implemented it flawlessly, I knew
 in a clean concise manner, I overcame the float issues to ensure the frequency was right and finished as an Int. I've never enjoyed
 listening to the bday jingle as much in my whole life haha. I some how jumped a day in front of my log so i'll just cram two days worth of 
 work into this final post as I know I never missed a day over the last 100 days but my log is one day in front. Very confused!
+
+Last edit: Also worked on the 18th reviewing pset4 and the cs50 short vids for the week on file points, dynamic memory allocation etc..
