@@ -4,8 +4,8 @@
 
 * [Home](README.md)
 * [Rules](rules.md)
-* [Log Round 1 - Archive](Log Round 1.md)
-* [Log Round 2 - Check my current progress](Log Round 2.md)
+* [Log Round 1 - Archive](LogR1.md)
+* [Log Round 2 - Check my current progress](LogR2.md)
 * [FAQ](FAQ.md)
 * [Extras](Extras.md)
 
