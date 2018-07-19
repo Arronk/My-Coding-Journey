@@ -9,8 +9,10 @@
 * [FAQ](FAQ.md)
 * [Extras](Extras.md)
 
-## Day 1: 18.07.2018
+## Day 1: 19.07.2018
 
-### Progress: TBA
+### Progress: Started work on Pset 4 Whodunit for CS50
 
-TBA
+Went out for dinner and a bit of fun at the casino tonight so it's a very late night boozy 1hr of coding.
+Really want to get pset4 & 5 done over the next 5 days before I got on holiday so I can get onto python which
+I think is going to be a much more practical language to learn that is relevant to current business.
