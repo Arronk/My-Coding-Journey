@@ -23,3 +23,10 @@ I think is going to be a much more practical language to learn that is relevant 
 
 Trying to get my head around the header info files in Whodunit. Struggling a bit with understanding 
 the numbers as nothing seems to line up. I'm sure it will click over the weekend though.
+
+## Day 3: 21.07.2018
+
+### Progress: Completed Whodunit but I still need to submit in the morning
+
+Once i'd wrapped my head around it properly it was just a few lines of code to deal with. Will submit in the morning once I 
+get some feedback off Discord on what I actually need to submit.
