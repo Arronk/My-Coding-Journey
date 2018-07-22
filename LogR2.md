@@ -30,3 +30,10 @@ the numbers as nothing seems to line up. I'm sure it will click over the weekend
 
 Once i'd wrapped my head around it properly it was just a few lines of code to deal with. Will submit in the morning once I 
 get some feedback off Discord on what I actually need to submit.
+
+## Day 4: 22.07.2018
+
+### Progress: Pushed on with pset4 second question resize.c
+
+I have made a few setup changes to the code and reviewed the course material. Have a decent idea what needs to be done but i'm falling
+to sleep at my desk to think i'm going to call it a night.
