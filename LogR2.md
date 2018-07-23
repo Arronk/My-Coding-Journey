@@ -37,3 +37,11 @@ get some feedback off Discord on what I actually need to submit.
 
 I have made a few setup changes to the code and reviewed the course material. Have a decent idea what needs to be done but i'm falling
 to sleep at my desk to think i'm going to call it a night.
+
+## Day 5: 23.07.2018
+
+### Progress: Wasn't able to get much screen time in today so just ended up watching the week 5 lecture
+
+Hopefully get more time at the computer tomorrow to get back onto pset4 and hopefully get it finished. Really looking forward to having pset4
+& pset5 completed so I can get onto the second half of the course which focuses more on practical web dev projects with html, css, python and 
+databases.
