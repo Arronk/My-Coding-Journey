@@ -45,3 +45,10 @@ to sleep at my desk to think i'm going to call it a night.
 Hopefully get more time at the computer tomorrow to get back onto pset4 and hopefully get it finished. Really looking forward to having pset4
 & pset5 completed so I can get onto the second half of the course which focuses more on practical web dev projects with html, css, python and 
 databases.
+
+## Day 6: 24.07.2018
+
+### Progress: Another day preoccupied with getting my new meap prep and training routine sorted so just watched the week 4 shorts
+
+Not much to report. Spent about 1.5 hours just watching the week 4 shorts in CS50. I would really like to get to a point where I can 
+comfortably implement data structures and understand which structure would be most suitable for a given situation.
