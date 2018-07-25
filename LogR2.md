@@ -52,3 +52,11 @@ databases.
 
 Not much to report. Spent about 1.5 hours just watching the week 4 shorts in CS50. I would really like to get to a point where I can 
 comfortably implement data structures and understand which structure would be most suitable for a given situation.
+
+## Day 7: 25.07.2018
+
+### Progress: Big big day.....of playing Fary Cry 5!
+
+Stuck in holiday mode and want to complete Far Cry 5. Got in a late hour trying to do resize.c though for pset4. Fly out to Bali
+for a week tomorrow so won't be doing much coding probably. But I will take my laptop and at least aim to get an hour of reading in each
+day on something code related. Probably a JS book to help further my knowledge of the new ES6 stuff and functional programming.
