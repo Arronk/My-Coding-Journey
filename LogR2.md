@@ -60,3 +60,12 @@ comfortably implement data structures and understand which structure would be mo
 Stuck in holiday mode and want to complete Far Cry 5. Got in a late hour trying to do resize.c though for pset4. Fly out to Bali
 for a week tomorrow so won't be doing much coding probably. But I will take my laptop and at least aim to get an hour of reading in each
 day on something code related. Probably a JS book to help further my knowledge of the new ES6 stuff and functional programming.
+
+## Day 8: 26.07.2018
+
+### Progress: Flex out to Bali on Holiday....
+
+Coding time is probably going to be kept at a bare minimum as I can barely get internet in my room unless I hang out on the balcony. Downloaded
+some books to my kindle and started reading a functional programming with Javascript book on the plane ride over. Hoping to fill my hour a day whilst 
+here reading the book and getting a better handle on functional programming. The more a learn about it the more I see it as a must have for building
+modular concise code.
