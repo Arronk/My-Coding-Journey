@@ -63,9 +63,19 @@ day on something code related. Probably a JS book to help further my knowledge o
 
 ## Day 8: 26.07.2018
 
-### Progress: Flex out to Bali on Holiday....
+### Progress: Fly out to Bali on Holiday....
 
 Coding time is probably going to be kept at a bare minimum as I can barely get internet in my room unless I hang out on the balcony. Downloaded
 some books to my kindle and started reading a functional programming with Javascript book on the plane ride over. Hoping to fill my hour a day whilst 
 here reading the book and getting a better handle on functional programming. The more a learn about it the more I see it as a must have for building
 modular concise code.
+
+## Day 9: 27.07.2018
+
+### Progress: Climbed a mountain today and read an hour worth of functional programming with Javascript
+
+Amazing day trekking to the top of Mount Batur in Bali, the view was incredible. So tired when I came back I tried to read my book and 
+started to fall asleep after 6 minutes. Decided to take a power nap and try again later in the evening which worked a treat! I really want to 
+figure out this functional prorgramming way of problem solving and understand it will definetely take some time and practice.
+
+
