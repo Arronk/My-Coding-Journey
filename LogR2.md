@@ -78,4 +78,13 @@ Amazing day trekking to the top of Mount Batur in Bali, the view was incredible.
 started to fall asleep after 6 minutes. Decided to take a power nap and try again later in the evening which worked a treat! I really want to 
 figure out this functional prorgramming way of problem solving and understand it will definetely take some time and practice.
 
+## Day 9: 26.07.2018
+
+### Progress: The holiday continues...very busy day doing activities, nearly failed but our friends cancelled a night out so here I am getting in my hour!
+
+It must be destiny that I am making this entry before the deadline. Spending the late hours of today in my bed getting an hour of reading time into
+this functional programming with Javascript book. Going to make sure I work with some of the exercises and code examples in VS Code with the debugger to help
+with my understanding of how the code executes when using recursive return statements.
+
+
 
