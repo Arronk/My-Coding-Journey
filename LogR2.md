@@ -94,6 +94,14 @@ This book is starting to go over my head as he is bringing in FP libraries like 
 both from libraries and native to JS that I am not familiar with. If I am going to learn from this book i'm going to have to take a step back again 
 and start working through the code examples and documentation.
 
+## Day 12: 30.07.2018
+
+### Progress: The holiday continues...Nursing a pretty severe hangover but did some work on resize.c
+
+Should have used my time more productively today. Did a very small amount of work on resize.c probably not enough to say I got a full hour
+but I am on holiday and I know I'll make up the time shortfall in other days. I definetely have a lot of extra already banked from the previously
+111 days!
+
 
 
 
