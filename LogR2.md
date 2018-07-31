@@ -102,6 +102,14 @@ Should have used my time more productively today. Did a very small amount of wor
 but I am on holiday and I know I'll make up the time shortfall in other days. I definetely have a lot of extra already banked from the previously
 111 days!
 
+## Day 13: 31.07.2018
+
+### Progress: The holiday continues...Progressed a little bit further in resize.c
+
+Just about have the code sorted out to update the header and info part of the 
+problem. Hopefully tomorrow I can finish off the pixel and padding part and get it submitted.
+
+
 
 
 
