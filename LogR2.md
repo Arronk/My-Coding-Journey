@@ -109,6 +109,12 @@ but I am on holiday and I know I'll make up the time shortfall in other days. I 
 Just about have the code sorted out to update the header and info part of the 
 problem. Hopefully tomorrow I can finish off the pixel and padding part and get it submitted.
 
+## Day 14: 01.08.2018
+
+### Progress: The holiday continues...Finished and submitted resize.c for CS50
+
+Managed to get around to a bit of CS50 and got the resize.c problem finalised and submitted, yay!
+
 
 
 
