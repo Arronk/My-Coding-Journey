@@ -115,6 +115,14 @@ problem. Hopefully tomorrow I can finish off the pixel and padding part and get 
 
 Managed to get around to a bit of CS50 and got the resize.c problem finalised and submitted, yay!
 
+## Day 15: 01.08.2018
+
+### Progress: Flew home today
+
+Actually submitted resize.c after some technical issues and read a few chapters of Professional
+Javascript for Web Developers 3rd Edition on the Plane. Seems a bit out of date but i'm sure there is still plenty in 
+there that I can learn.
+
 
 
 
