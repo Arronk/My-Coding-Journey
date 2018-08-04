@@ -115,7 +115,7 @@ problem. Hopefully tomorrow I can finish off the pixel and padding part and get 
 
 Managed to get around to a bit of CS50 and got the resize.c problem finalised and submitted, yay!
 
-## Day 15: 01.08.2018
+## Day 15: 02.08.2018
 
 ### Progress: Flew home today
 
@@ -123,12 +123,19 @@ Actually submitted resize.c after some technical issues and read a few chapters 
 Javascript for Web Developers 3rd Edition on the Plane. Seems a bit out of date but i'm sure there is still plenty in 
 there that I can learn.
 
-## Day 16: 02.08.2018
+## Day 16: 03.08.2018
 
 ### Progress: Started on recover.c
 
 Built the basic setup for recover.c so that it passes the initial checks with check50. Now I just need to do the hard part
 and build out the guts of of the program!
+
+## Day 17: 04.08.2018
+
+### Progress: Started too late so watched week 5 & 6 lectures   
+
+Want to devote a good chunk of time tomorrow to finishing pset4. Going to watch the pset free week 5 and 6 lectures tonight
+just because I am hanging out to get back on some web dev stuff and away from pointers and C!
 
 
 
