@@ -137,6 +137,13 @@ and build out the guts of of the program!
 Want to devote a good chunk of time tomorrow to finishing pset4. Going to watch the pset free week 5 and 6 lectures tonight
 just because I am hanging out to get back on some web dev stuff and away from pointers and C!
 
+## Day 18: 05.08.2018
+
+### Progress: Another fail day of not doing any coding on pset4! 
+
+Fell asleep last night so finished off the two lectures for week 6. Its good to see a bit of python again. Goal for 
+this next week is finish pset4 & 5! It must be done!
+
 
 
 
