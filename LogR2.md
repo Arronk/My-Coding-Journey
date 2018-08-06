@@ -144,6 +144,13 @@ just because I am hanging out to get back on some web dev stuff and away from po
 Fell asleep last night so finished off the two lectures for week 6. Its good to see a bit of python again. Goal for 
 this next week is finish pset4 & 5! It must be done!
 
+## Day 19: 06.08.2018
+
+### Progress: Did some work on Advanced Developer Bootcamp on Udemy
+
+Did not get to sit down at the computer until 10:30pm so just fit in a tired hour working on some ES6 stuff 
+as part of Colt Steeles - Advanced Web Developer Bootcamp. I am struggling with this stuff still and think I will for
+some time to come. Bit flat at the moment with this slow down in progress
 
 
 
