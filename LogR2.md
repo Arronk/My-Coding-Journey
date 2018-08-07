@@ -152,6 +152,14 @@ Did not get to sit down at the computer until 10:30pm so just fit in a tired hou
 as part of Colt Steeles - Advanced Web Developer Bootcamp. I am struggling with this stuff still and think I will for
 some time to come. Bit flat at the moment with this slow down in progress
 
+## Day 20: 07.08.2018
+
+### Progress: Did some more work on Advanced Developer Bootcamp on Udemy
+
+Another long day and late start in the evening. Decided to keep going on the Udemy course and implemented a setInterval
+function that counts down to 0 in the console and then logs Ring Ring Ring!!! when it hit's zero seconds
+
+
 
 
 
