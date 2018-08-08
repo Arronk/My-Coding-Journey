@@ -159,6 +159,12 @@ some time to come. Bit flat at the moment with this slow down in progress
 Another long day and late start in the evening. Decided to keep going on the Udemy course and implemented a setInterval
 function that counts down to 0 in the console and then logs Ring Ring Ring!!! when it hit's zero seconds
 
+## Day 21: 08.08.2018
+
+### Progress: Did some more work on Advanced Developer Bootcamp on Udemy
+
+Finished the async section of the course and moved onto the AJAX section. Mostly just basic exercises and I think some more meaty
+projects are not too far away. Still struggle with these callback functions but i'm hopeful with practice it will become second nature.
 
 
 
