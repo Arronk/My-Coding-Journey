@@ -166,6 +166,14 @@ function that counts down to 0 in the console and then logs Ring Ring Ring!!! wh
 Finished the async section of the course and moved onto the AJAX section. Mostly just basic exercises and I think some more meaty
 projects are not too far away. Still struggle with these callback functions but i'm hopeful with practice it will become second nature.
 
+## Day 22: 09.08.2018
+
+### Progress: Did some more work on Advanced Developer Bootcamp on Udemy
+
+Continued with the Ajax section of the course and did a brief little simple exercise in codepen to update a bitcoin
+rate using an API on button click without requiring the page to be refreshed. It was a relatively simple exercise and I kept it very bare
+bones where it wasn't handling errors. I've missed working with Javascript with C and CS50 taking up a lot of my time in recent months.
+
 
 
 
