@@ -174,6 +174,8 @@ Continued with the Ajax section of the course and did a brief little simple exer
 rate using an API on button click without requiring the page to be refreshed. It was a relatively simple exercise and I kept it very bare
 bones where it wasn't handling errors. I've missed working with Javascript with C and CS50 taking up a lot of my time in recent months.
 
+[Simple Bitcoin AJAX Demo](https://codepen.io/Arronk/pen/gjZONo)
+
 
 
 
