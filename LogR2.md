@@ -176,6 +176,12 @@ bones where it wasn't handling errors. I've missed working with Javascript with 
 
 [Simple Bitcoin AJAX Demo](https://codepen.io/Arronk/pen/gjZONo)
 
+## Day 23: 10.08.2018
+
+### Progress: Did some more work on Advanced Developer Bootcamp on Udemy
+
+Continued with AJAX functionality and got started on the part 2 AJAX section which introduced JQuery involvement and Axios
+
 
 
 
