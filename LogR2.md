@@ -182,7 +182,14 @@ bones where it wasn't handling errors. I've missed working with Javascript with 
 
 Continued with AJAX functionality and got started on the part 2 AJAX section which introduced JQuery involvement and Axios
 
+## Day 24: 11.08.2018
 
+### Progress: Attended a FCC meetup and completed pset4 Finally!
+
+A good day finally being able to spend a decent portion of time on my coding. Hosted a 4 hour FCC monthly meetup which
+was great to see mostly new faces joining us but I did not get much coding in like usual. Then I mustered up the courage to finally
+give pset4 a solid crack to get it compeleted. After much frustration I got it to work. The solution seems so simple after the 
+fact!
 
 
 
