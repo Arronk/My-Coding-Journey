@@ -191,5 +191,14 @@ was great to see mostly new faces joining us but I did not get much coding in li
 give pset4 a solid crack to get it compeleted. After much frustration I got it to work. The solution seems so simple after the 
 fact!
 
+## Day 25: 12.08.2018
+
+### Progress: Started the final C pset5 - Hard Mode
+
+This final C pset looks rather difficult but based on my readings since I started programming I think it is very important I slow down
+take my time with this one regardless of how much I am itching to move away from C. I plan on first building linked lists, hash tables and tries
+in a very simple form outside of the pset to get an understanding of how it works then try implement each into the solving the 
+problem.
+
 
 
