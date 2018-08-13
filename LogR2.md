@@ -200,5 +200,14 @@ take my time with this one regardless of how much I am itching to move away from
 in a very simple form outside of the pset to get an understanding of how it works then try implement each into the solving the 
 problem.
 
+## Day 26: 13.08.2018
+
+### Progress: Continued with the final C pset5 - Hard Mode
+
+spent time messing around with different files in Cloud 9 to properly understand pointers. Have been reviewing 
+the short vids again for the third or fourth time. I'm going to understand this and get this pset finished this 
+week!
+
+
 
 
