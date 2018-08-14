@@ -208,6 +208,14 @@ spent time messing around with different files in Cloud 9 to properly understand
 the short vids again for the third or fourth time. I'm going to understand this and get this pset finished this 
 week!
 
+## Day 27: 14.08.2018
+
+### Progress: Continued with the final C pset5 - Hard Mode
+
+Working through the lecture and src5 code examples specifically focusing only on linked lists for tonight.
+I don't really have a full understanding on the syntax and implementation process yet but I understand
+what we are trying to do. I need to build my own linked list!
+
 
 
 
