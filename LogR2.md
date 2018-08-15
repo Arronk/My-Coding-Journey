@@ -216,6 +216,13 @@ Working through the lecture and src5 code examples specifically focusing only on
 I don't really have a full understanding on the syntax and implementation process yet but I understand
 what we are trying to do. I need to build my own linked list!
 
+## Day 28: 15.08.2018
+
+### Progress: Continued with the final C pset5 - Hard Mode
+
+Finished working through all the Src5 examples in detail as well as thoroughly rewatched the weekly lecture. Started
+Progressing through all the weekly shorts again building a few practice exercises to continue building up my foundational
+knowledge of structures, C syntax to prep me for doing this pset5 correctly.
 
 
 
