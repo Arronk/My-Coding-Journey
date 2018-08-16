@@ -224,5 +224,13 @@ Finished working through all the Src5 examples in detail as well as thoroughly r
 Progressing through all the weekly shorts again building a few practice exercises to continue building up my foundational
 knowledge of structures, C syntax to prep me for doing this pset5 correctly.
 
+## Day 29: 16.08.2018
+
+### Progress: Continued with the final C pset5 - Hard Mode
+
+Spent the night implementing my own singly linked list data structure will full CRUD functionality. Don't think i'll 
+have time to finish it all off the way I want it to be tonight but will make sure it is done tomorrow. It has been 
+an enjoyable night where I'm implementing things and it is working yipee! Nights like this are very rewarding.
+
 
 
