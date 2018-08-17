@@ -232,5 +232,14 @@ Spent the night implementing my own singly linked list data structure will full 
 have time to finish it all off the way I want it to be tonight but will make sure it is done tomorrow. It has been 
 an enjoyable night where I'm implementing things and it is working yipee! Nights like this are very rewarding.
 
+## Day 30: 17.08.2018
+
+### Progress: The best-laid plans of mice and men often go awry
+
+My big plan to keep the good momentum going from last night never eventuated. Finished work almost fell asleep then 
+down to the gym for 1.5hours for my sons kickboxing then meal prep as I have nothing ready for tomorrow and now its currently
+10:48pm as I write this and I have planned to go for a 6:30am surf! Will cram in an hour, do what I can and smash it on
+the weekend.
+
 
 
