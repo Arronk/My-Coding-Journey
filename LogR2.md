@@ -241,5 +241,12 @@ down to the gym for 1.5hours for my sons kickboxing then meal prep as I have not
 10:48pm as I write this and I have planned to go for a 6:30am surf! Will cram in an hour, do what I can and smash it on
 the weekend.
 
+## Day 31: 18.08.2018
+
+### Progress: Some progress on my data structure adventures
+
+Spent most of the day trying to figure out bugs and memory leaks. In hindsight I should have posted my question to
+stack sooner as it was answered within a matter of minutes in perfectly understandable english for a simpleton like
+me! I'll just take it as a learner experience and keep on moving with my program!
 
 
