@@ -249,4 +249,13 @@ Spent most of the day trying to figure out bugs and memory leaks. In hindsight I
 stack sooner as it was answered within a matter of minutes in perfectly understandable english for a simpleton like
 me! I'll just take it as a learner experience and keep on moving with my program!
 
+## Day 32: 19.08.2018
+
+### Progress: Finished my SLL Project
+
+Hopefully I have met Ranjit's criteria for my little linked list exercise. I have definetely learned a lot doing this one
+even if it consumed the best part of my entire weekend. On to hash tables and tries next!
+
+[SLL Project Repository](https://github.com/Arronk/Singly-Linked-List-CRUD)
+
 
