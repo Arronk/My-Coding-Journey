@@ -258,4 +258,13 @@ even if it consumed the best part of my entire weekend. On to hash tables and tr
 
 [SLL Project Repository](https://github.com/Arronk/Singly-Linked-List-CRUD)
 
+## Day 33: 20.08.2018
+
+### Progress: Delved into the world of hash functions
+
+Now moving onto hash tables I spent most of the night looking for a suitable hash function as the pset allowed 
+it provided I site my sources. So far I have been trying to pull apart the djb2 hash function. bitwise operators and 
+some cryptic syntax made understanding a little tricky but I think I am starting to under stand how it works in theory
+but the math is a little beyond me haha.
+
 
