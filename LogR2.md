@@ -267,4 +267,12 @@ it provided I site my sources. So far I have been trying to pull apart the djb2 
 some cryptic syntax made understanding a little tricky but I think I am starting to under stand how it works in theory
 but the math is a little beyond me haha.
 
+## Day 34: 21.08.2018
+
+### Progress: Sidetracked tonight!
+
+Spent most of the night chatting to my CS50 study partner and reviewing Coursera, Edx and Udacity to see what micromasters,
+masters and other certificates they offer that may be useful to enrol in going forwards. I think for the time being FCC, the OSSU
+Curriculum, Udemy and fast.ai is going to keep my plenty busy for the next couple of years but some of these courses look 
+interesting specifically the AI for trading on Udacity!
 
