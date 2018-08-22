@@ -276,3 +276,10 @@ masters and other certificates they offer that may be useful to enrol in going f
 Curriculum, Udemy and fast.ai is going to keep my plenty busy for the next couple of years but some of these courses look 
 interesting specifically the AI for trading on Udacity!
 
+## Day 35: 22.08.2018
+
+### Progress: Back onto hashtables and pset5
+
+Nothing too fancy tonight. Trying to convert my SLL projects into a hash table implementation. Once this is finished
+i'll get onto doing pset5. I wanted to also do tries but I really need to keep moving with this unit!
+
