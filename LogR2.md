@@ -283,3 +283,10 @@ interesting specifically the AI for trading on Udacity!
 Nothing too fancy tonight. Trying to convert my SLL projects into a hash table implementation. Once this is finished
 i'll get onto doing pset5. I wanted to also do tries but I really need to keep moving with this unit!
 
+## Day 36: 23.08.2018
+
+### Progress: Hitting my head against a brick wall tonight
+
+Not having much luck with this hashtable structure tonight. I do understand what we are doing at a fundamental level
+and can write the pseudo but I am struggling with the syntax and pointers like usual!
+
