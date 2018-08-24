@@ -290,3 +290,8 @@ i'll get onto doing pset5. I wanted to also do tries but I really need to keep m
 Not having much luck with this hashtable structure tonight. I do understand what we are doing at a fundamental level
 and can write the pseudo but I am struggling with the syntax and pointers like usual!
 
+## Day 37: 24.08.2018
+
+### Progress: Still Bashing my head against the wall
+
+made almost no progress on this hashtable tonight, really feel like giving up ugh...
