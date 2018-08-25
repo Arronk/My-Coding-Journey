@@ -295,3 +295,10 @@ and can write the pseudo but I am struggling with the syntax and pointers like u
 ### Progress: Still Bashing my head against the wall
 
 made almost no progress on this hashtable tonight, really feel like giving up ugh...
+
+## Day 38: 25.08.2018
+
+### Progress: Had a bit of a breakthrough
+
+So I finally had a breakthrough with my hashtable today and figured out how each bucket in the area could act as the head
+of a singly linked list. Hoping to have the insert function finished before I go to bed tonight!
