@@ -302,3 +302,15 @@ made almost no progress on this hashtable tonight, really feel like giving up ug
 
 So I finally had a breakthrough with my hashtable today and figured out how each bucket in the area could act as the head
 of a singly linked list. Hoping to have the insert function finished before I go to bed tonight!
+
+## Day 39: 26.08.2018
+
+### Progress: Hashtable Success!
+
+After my breakthrough yesterday the floodgates opened and the rest of the program was relatively straight forward. I 
+had a real "ah-hah" moment when I realised the cause of my seg fault errors, one that will hopefully be a lasting lesson
+to take forward with me. All program files were uploaded to my github repo linked below.
+
+- [Helper file](https://github.com/Arronk/Singly-Linked-List-and-Hastable-CRUD/blob/master/hashstruct.h)
+- [Hash Executable program](https://github.com/Arronk/Singly-Linked-List-and-Hastable-CRUD/blob/master/swanhash.c)
+
