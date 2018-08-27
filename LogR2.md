@@ -263,7 +263,7 @@ even if it consumed the best part of my entire weekend. On to hash tables and tr
 ### Progress: Delved into the world of hash functions
 
 Now moving onto hash tables I spent most of the night looking for a suitable hash function as the pset allowed 
-it provided I site my sources. So far I have been trying to pull apart the djb2 hash function. bitwise operators and 
+it provided I cite my sources. So far I have been trying to pull apart the djb2 hash function. bitwise operators and 
 some cryptic syntax made understanding a little tricky but I think I am starting to under stand how it works in theory
 but the math is a little beyond me haha.
 
@@ -313,4 +313,12 @@ to take forward with me. All program files were uploaded to my github repo linke
 
 - [Helper file](https://github.com/Arronk/Singly-Linked-List-and-Hastable-CRUD/blob/master/hashstruct.h)
 - [Hash Executable program](https://github.com/Arronk/Singly-Linked-List-and-Hastable-CRUD/blob/master/swanhash.c)
+
+## Day 40: 27.08.2018
+
+### Progress: Back onto pset5! This week I will destroy it!
+
+Got back onto pset5 tonight. Mostly reading the speller.c file. Also listed to a freecodecamp podcast. I will destroy this 
+pset this week, I am full of confidence now I have successfully completed my other programs.
+
 
