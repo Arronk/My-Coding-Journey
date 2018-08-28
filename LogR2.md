@@ -321,4 +321,12 @@ to take forward with me. All program files were uploaded to my github repo linke
 Got back onto pset5 tonight. Mostly reading the speller.c file. Also listed to a freecodecamp podcast. I will destroy this 
 pset this week, I am full of confidence now I have successfully completed my other programs.
 
+## Day 41: 28.08.2018
+
+### Progress: Very late start so just watched the Week 7 Lecture
+
+Put pset5 aside tonight as I started late and was quite tired. Decided to watch the week 7 lecture instead but struggling
+to keep the eyes open. No training tomorrow so plenty of time to make up lost ground for the week then!
+
+
 
