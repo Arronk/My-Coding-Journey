@@ -328,5 +328,12 @@ pset this week, I am full of confidence now I have successfully completed my oth
 Put pset5 aside tonight as I started late and was quite tired. Decided to watch the week 7 lecture instead but struggling
 to keep the eyes open. No training tomorrow so plenty of time to make up lost ground for the week then!
 
+## Day 42: 29.08.2018
+
+### Progress: Finished watching the week 7 lecture
+
+Well my meal prep and new nutrition plan totally took front and center tonight so barelly squeezed in 30 mins finishing off the week 7
+lecture. I'm a little behind my hour a day this week but i'll catch it up on the weekend.
+
 
 
