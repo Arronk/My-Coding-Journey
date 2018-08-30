@@ -335,5 +335,12 @@ to keep the eyes open. No training tomorrow so plenty of time to make up lost gr
 Well my meal prep and new nutrition plan totally took front and center tonight so barelly squeezed in 30 mins finishing off the week 7
 lecture. I'm a little behind my hour a day this week but i'll catch it up on the weekend.
 
+## Day 43: 30.08.2018
+
+### Progress: Finished all the text questions in pset5
+
+Made some progress by getting all the questions completed for pset5. Just the code left to write. This weekend is going to be the winner (yes I know I have said
+that for about the past 4 now haha).
+
 
 
