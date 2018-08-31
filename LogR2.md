@@ -342,5 +342,9 @@ lecture. I'm a little behind my hour a day this week but i'll catch it up on the
 Made some progress by getting all the questions completed for pset5. Just the code left to write. This weekend is going to be the winner (yes I know I have said
 that for about the past 4 now haha).
 
+## Day 44: 31.08.2018
 
+### Progress: Making good progress on pset5, hopefully finish it tonight!
+
+Written 2 of the 4 functions in pset5, if I don't finish tonight I will definetely have this one cracked tomorrow!
 
