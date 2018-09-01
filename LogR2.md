@@ -348,3 +348,11 @@ that for about the past 4 now haha).
 
 Written 2 of the 4 functions in pset5, if I don't finish tonight I will definetely have this one cracked tomorrow!
 
+## Day 45: 01.09.2018
+
+### Progress: Completed PSET5!
+
+Very happy to write that today I finished and submitted pset5! This marks the end of the my journey with C for the time being and onto python, JS and all the rest
+to finish off the final psets of the course. It has been difficult but rewarding doing the first 6 psets and its a good achievement to get the motivation
+juices flowing once again.
+
