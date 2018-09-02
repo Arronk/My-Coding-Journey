@@ -356,3 +356,10 @@ Very happy to write that today I finished and submitted pset5! This marks the en
 to finish off the final psets of the course. It has been difficult but rewarding doing the first 6 psets and its a good achievement to get the motivation
 juices flowing once again.
 
+## Day 46: 02.09.2018
+
+### Progress: Completed most of Sentiiments in PSET6 and started an MIT python course
+
+Did most of the ports of previous C programs over to python which turned out trickier then expected. I really struggled to read the 
+python documentation, it was definately not newbie friendly in my opinion. Bart and I decided to do a quick (2 month or less) detour
+into the MIT intro to comp science with python course to brush up on python skills before moving forward.
