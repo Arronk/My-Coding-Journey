@@ -363,3 +363,12 @@ juices flowing once again.
 Did most of the ports of previous C programs over to python which turned out trickier then expected. I really struggled to read the 
 python documentation, it was definately not newbie friendly in my opinion. Bart and I decided to do a quick (2 month or less) detour
 into the MIT intro to comp science with python course to brush up on python skills before moving forward.
+
+## Day 47: 03.09.2018
+
+### Progress: Completed the psets from week 1 of the MIT 6.00x Course
+
+Needed to check stack over flow for a couple of syntax issues I was having in my program solutions but 
+overall I managed to get the three psets questions from week 1 done without too much hassle. I think my solution
+to the third question was a bit WET and sloppy but i passed the checks so I am going to move on. Started readin the 
+course text book tonight to further my understanding whilst I wait for the next week of content to be released.
