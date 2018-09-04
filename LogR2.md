@@ -372,3 +372,10 @@ Needed to check stack over flow for a couple of syntax issues I was having in my
 overall I managed to get the three psets questions from week 1 done without too much hassle. I think my solution
 to the third question was a bit WET and sloppy but i passed the checks so I am going to move on. Started readin the 
 course text book tonight to further my understanding whilst I wait for the next week of content to be released.
+
+## Day 48: 04.09.2018
+
+### Progress: Completed credit.py for pset6 in cs50
+
+Since I had some spare time still before week 2 MIT coursework is released I kept going with pset6 for cs50. I only need to 
+submit one more ported file in python and i'm done with sentimentals and then onto similarities to build a small dynamic web page.
