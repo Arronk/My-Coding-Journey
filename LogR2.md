@@ -379,3 +379,11 @@ course text book tonight to further my understanding whilst I wait for the next 
 
 Since I had some spare time still before week 2 MIT coursework is released I kept going with pset6 for cs50. I only need to 
 submit one more ported file in python and i'm done with sentimentals and then onto similarities to build a small dynamic web page.
+
+## Day 49: 05.09.2018
+
+### Progress: Got started on Similarities for pset6 in CS50
+
+Well there has been a lot thrown at me at once with similarities. Lots of new syntax and flask and methods....I think I have formed
+some basis of understanding though to push on and start working through implementing the lines function first. The HTML side of things
+I am not too worried about so once I have tested lines I think the other two functions should be managable.
