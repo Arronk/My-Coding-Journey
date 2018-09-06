@@ -387,3 +387,10 @@ submit one more ported file in python and i'm done with sentimentals and then on
 Well there has been a lot thrown at me at once with similarities. Lots of new syntax and flask and methods....I think I have formed
 some basis of understanding though to push on and start working through implementing the lines function first. The HTML side of things
 I am not too worried about so once I have tested lines I think the other two functions should be managable.
+
+## Day 50: 06.09.2018
+
+### Progress: Finished the bisection search problem in week 2 of 6.00X MIT Course
+
+The problem was relatively easy tonight but i'd be a bit lost without my debugger at hand! Can hopefully get all of week 2 knocked out pretty early
+into the weekend so I can try and finish off similarities as well for cs50.
