@@ -394,3 +394,11 @@ I am not too worried about so once I have tested lines I think the other two fun
 
 The problem was relatively easy tonight but i'd be a bit lost without my debugger at hand! Can hopefully get all of week 2 knocked out pretty early
 into the weekend so I can try and finish off similarities as well for cs50.
+
+## Day 51: 07.09.2018
+
+### Progress: Read the first four chapters of the text book for 6.00X Course
+
+Not sure what to expect from the mid term exam so I thought I'd spend the night revising the text book to see if there
+was anything more to be gained additional to the videos and exercises. To be honest I'm not sure how much value I gained from doing it. Planning
+to get a fair bit of coding in this weekend so watch this space!
