@@ -402,3 +402,10 @@ into the weekend so I can try and finish off similarities as well for cs50.
 Not sure what to expect from the mid term exam so I thought I'd spend the night revising the text book to see if there
 was anything more to be gained additional to the videos and exercises. To be honest I'm not sure how much value I gained from doing it. Planning
 to get a fair bit of coding in this weekend so watch this space!
+
+## Day 52: 08.09.2018
+
+### Progress: Finished the rest of the lectures and exercises for week 2 6.00x
+
+Not too much thrown at me that was difficult today. I definately still struggle with implementing recursive algorithms so I think I need
+to focus my efforts that to understand when to use them and how to think about writing the code to implement the solution.
