@@ -409,3 +409,9 @@ to get a fair bit of coding in this weekend so watch this space!
 
 Not too much thrown at me that was difficult today. I definately still struggle with implementing recursive algorithms so I think I need
 to focus my efforts that to understand when to use them and how to think about writing the code to implement the solution.
+
+## Day 53: 09.09.2018
+
+### Progress: Starting working on the week2 psets for 6.00x but not finished yet
+
+Nothing of interest to really explain in the detail. Hoping to have the psets finished tonight but wanting to play videogames haha.
