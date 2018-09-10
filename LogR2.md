@@ -415,3 +415,10 @@ to focus my efforts that to understand when to use them and how to think about w
 ### Progress: Starting working on the week2 psets for 6.00x but not finished yet
 
 Nothing of interest to really explain in the detail. Hoping to have the psets finished tonight but wanting to play videogames haha.
+
+## Day 54: 10.09.2018
+
+### Progress: Got a headstart on week3 reading for 6.00x
+
+Chapter 5 was all about tuples, dicts and lists. A couple of these data structures were familiar to me already but
+I'm looking forward to the exercises and psets for week 3 so I can get a bit of practice in too.
