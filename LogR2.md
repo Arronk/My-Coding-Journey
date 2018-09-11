@@ -422,3 +422,11 @@ Nothing of interest to really explain in the detail. Hoping to have the psets fi
 
 Chapter 5 was all about tuples, dicts and lists. A couple of these data structures were familiar to me already but
 I'm looking forward to the exercises and psets for week 3 so I can get a bit of practice in too.
+
+## Day 55: 11.09.2018
+
+### Progress: Had some fun setting up an automated stock update email script using python and gmail
+
+Following a great little instructional article I found on Medium tonight to set up an automated email that shows all
+the stocks I am tracking using the IEX API. This is really aligned with my long term goal of setting up my own finance site 
+so i'm really excited to learn some basic skills settting this up.
