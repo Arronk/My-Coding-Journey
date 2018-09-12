@@ -430,3 +430,11 @@ I'm looking forward to the exercises and psets for week 3 so I can get a bit of 
 Following a great little instructional article I found on Medium tonight to set up an automated email that shows all
 the stocks I am tracking using the IEX API. This is really aligned with my long term goal of setting up my own finance site 
 so i'm really excited to learn some basic skills settting this up.
+
+## Day 56: 12.09.2018
+
+### Progress: Completed the first function on similarities and started week 3 6.00x
+
+I did the work but forgot to push and post to twitter dammit! A white mark in my dam github commits graph.
+Finished the first function of similarities for cs50 and should be able to get that pset finished this week. 
+Relatively comfortable I should be able to finish all of week 4 in MIT 6.00x over the next two days.
