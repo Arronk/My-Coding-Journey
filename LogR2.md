@@ -438,3 +438,11 @@ so i'm really excited to learn some basic skills settting this up.
 I did the work but forgot to push and post to twitter dammit! A white mark in my dam github commits graph.
 Finished the first function of similarities for cs50 and should be able to get that pset finished this week. 
 Relatively comfortable I should be able to finish all of week 4 in MIT 6.00x over the next two days.
+
+## Day 57: 13.09.2018
+
+### Progress: Completed the half of week 3 exercises for 6.00x
+
+Almost forgot to update and post again! Managed to get a fair bit completed tonight for week 3 and helped 
+another student in my discord trouble shoot his pset from last week. Hoping to get week3 done by saturday lastest 
+and pset6 for cs50 on Saturday.
