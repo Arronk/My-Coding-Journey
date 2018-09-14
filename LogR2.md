@@ -446,3 +446,11 @@ Relatively comfortable I should be able to finish all of week 4 in MIT 6.00x ove
 Almost forgot to update and post again! Managed to get a fair bit completed tonight for week 3 and helped 
 another student in my discord trouble shoot his pset from last week. Hoping to get week3 done by saturday lastest 
 and pset6 for cs50 on Saturday.
+
+## Day 58: 14.09.2018
+
+### Progress: Finished the week 3 exercises in 6.00x and got started on the psets
+
+The remainder of the weekly exercises were relatively straight forward. The lectures and exercises did not
+got into a great deal of depth on dictionaries with the difficulty level being pretty easy on the exercises. I've got 
+a start on the psets which look pretty fun but i'll probably have to finish them in the morning.
