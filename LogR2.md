@@ -454,3 +454,11 @@ and pset6 for cs50 on Saturday.
 The remainder of the weekly exercises were relatively straight forward. The lectures and exercises did not
 got into a great deal of depth on dictionaries with the difficulty level being pretty easy on the exercises. I've got 
 a start on the psets which look pretty fun but i'll probably have to finish them in the morning.
+
+## Day 59: 15.09.2018
+
+### Progress: On Fire!
+
+Finished week 3 psets in MIT last night before going to bed and then finished the pset6 similarities today! Really
+happy smashing my goals before the end of the weekend and also managing to fit the hosting of our monthly
+freecodecamp meetup today for 4 hours. Always good to catch up with the small group and chat all things code!
