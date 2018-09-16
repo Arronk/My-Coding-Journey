@@ -462,3 +462,12 @@ a start on the psets which look pretty fun but i'll probably have to finish them
 Finished week 3 psets in MIT last night before going to bed and then finished the pset6 similarities today! Really
 happy smashing my goals before the end of the weekend and also managing to fit the hosting of our monthly
 freecodecamp meetup today for 4 hours. Always good to catch up with the small group and chat all things code!
+
+## Day 60: 16.09.2018
+
+### Progress: Watched lectures/shorts and started pset7 in cs50
+
+Mostly spent my time today watching the lecture and shorts relating to pset7 and reviewed the pset 
+source code and live working copy to get a feel for the scope of the project. There are a lot of optional 
+functionalities we can implement if we choose on this pset which I think I am going to try and do all listed.
+A good little project to get stuck into next week whilst I've got a week off MIT.
