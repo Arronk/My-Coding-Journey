@@ -471,3 +471,12 @@ Mostly spent my time today watching the lecture and shorts relating to pset7 and
 source code and live working copy to get a feel for the scope of the project. There are a lot of optional 
 functionalities we can implement if we choose on this pset which I think I am going to try and do all listed.
 A good little project to get stuck into next week whilst I've got a week off MIT.
+
+## Day 61: 17.09.2018
+
+### Progress: Got in front on my reading for 6.00x
+
+Since the midterm and next load of materials aren't released until next week I got a head start on the reading.
+I read chapters 6 & 7, testing, debugging and exceptions. I am yet to utilise exceptions in my code that often to 
+print error reports although I did a little when I built the Yelpcamp project. Testing is also something pretty new
+which I would like to get better at as I start to build more complex programs/applications.
