@@ -480,3 +480,11 @@ Since the midterm and next load of materials aren't released until next week I g
 I read chapters 6 & 7, testing, debugging and exceptions. I am yet to utilise exceptions in my code that often to 
 print error reports although I did a little when I built the Yelpcamp project. Testing is also something pretty new
 which I would like to get better at as I start to build more complex programs/applications.
+
+## Day 62: 18.09.2018
+
+### Progress: Continued with my reading for 6.00x
+
+Will return to pset7 for the remainder of the week tomorrow. As the next chapter 8 related to 
+Classes and OOP in Python I wanted to have a read through it a little as I have touched very little
+on OOP to date and the times when I did I found it rather confusing. 
