@@ -488,3 +488,11 @@ which I would like to get better at as I start to build more complex programs/ap
 Will return to pset7 for the remainder of the week tomorrow. As the next chapter 8 related to 
 Classes and OOP in Python I wanted to have a read through it a little as I have touched very little
 on OOP to date and the times when I did I found it rather confusing. 
+
+## Day 63: 19.09.2018
+
+### Progress: Got back onto pset7 for CS50
+
+Spent a couple of hours tonight getting to understand more about Flask and Jinja and how they 
+are working in the start code in app.py and helpers.py in pset7. I have a general understanding of what 
+it is doing at this stage so tomorrow I'm hoping to have the register part of the problem complete.
