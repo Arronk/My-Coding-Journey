@@ -496,3 +496,12 @@ on OOP to date and the times when I did I found it rather confusing.
 Spent a couple of hours tonight getting to understand more about Flask and Jinja and how they 
 are working in the start code in app.py and helpers.py in pset7. I have a general understanding of what 
 it is doing at this stage so tomorrow I'm hoping to have the register part of the problem complete.
+
+## Day 64: 20.09.2018
+
+### Progress: Almost finished my register implementation for pset7
+
+I managed to get all the username and password validations working OK I think and store a hashed 
+password. Now all that is need to finish it is store the hashed password and username into the database,
+store the userid in the session id and get it to redirect to the home page. Tomorrow night i'm confident this 
+shouldn't be too hard to finish off and move onto the quote section.
