@@ -505,3 +505,10 @@ I managed to get all the username and password validations working OK I think an
 password. Now all that is need to finish it is store the hashed password and username into the database,
 store the userid in the session id and get it to redirect to the home page. Tomorrow night i'm confident this 
 shouldn't be too hard to finish off and move onto the quote section.
+
+## Day 65: 21.09.2018
+
+### Progress: Hit a stumbling block tonight on this register implementation
+
+Really struggling with the syntax of this execute() statement so I can check if the username exists
+in the database. Will not go to bed until it's fixed!
