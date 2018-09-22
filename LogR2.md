@@ -512,3 +512,12 @@ shouldn't be too hard to finish off and move onto the quote section.
 
 Really struggling with the syntax of this execute() statement so I can check if the username exists
 in the database. Will not go to bed until it's fixed!
+
+## Day 66: 22.09.2018
+
+### Progress: Finished the register implementation on pset7, thank fuck!
+
+So I caused trouble myself by wanting to use the fetchone() method as this wasn't part of the cs50 sql 
+library. So this led to me having to change the login route logic as well and then I also wanted to use row_factory
+so I could access so the tuples as if they were dicts and make my code more semantic. I got there eventually so mission
+succes.
