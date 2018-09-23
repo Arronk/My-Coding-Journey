@@ -521,3 +521,13 @@ So I caused trouble myself by wanting to use the fetchone() method as this wasn'
 library. So this led to me having to change the login route logic as well and then I also wanted to use row_factory
 so I could access so the tuples as if they were dicts and make my code more semantic. I got there eventually so mission
 succes.
+
+## Day 67: 23.09.2018
+
+### Progress: Check50 for Register, Quote routes and Roblox Scripting!
+
+Even though my reworked register and login routes were functioning correctly it was still not
+passing some of the check50 tests. After updating my code it passed the tests and I also updated the basic
+logic and html template for the quote page. Had a bit of a diversion when my 10 year old approached me 
+with a scripting problem he was having in Roblox trying to create a punch animation. After a bit of trial and error
+and fixing numerous syntactic errors the little character was throwing a solid punch!
