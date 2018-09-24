@@ -531,3 +531,11 @@ passing some of the check50 tests. After updating my code it passed the tests an
 logic and html template for the quote page. Had a bit of a diversion when my 10 year old approached me 
 with a scripting problem he was having in Roblox trying to create a punch animation. After a bit of trial and error
 and fixing numerous syntactic errors the little character was throwing a solid punch!
+
+## Day 68: 24.09.2018
+
+### Progress: Finished /quote, /buy and most of /index in pset7 cs50
+
+Spent a whole lot of time today try to finish this pset but unfortunately I couldn't quite reach
+the finish line. Stuck now on rendering the consolidated portfolio using live pricing but i'm sure 
+i'll get it eventually. Goal for next week is to get it finished but i'm worried work may get in the way.
