@@ -539,3 +539,12 @@ and fixing numerous syntactic errors the little character was throwing a solid p
 Spent a whole lot of time today try to finish this pset but unfortunately I couldn't quite reach
 the finish line. Stuck now on rendering the consolidated portfolio using live pricing but i'm sure 
 i'll get it eventually. Goal for next week is to get it finished but i'm worried work may get in the way.
+
+## Day 69: 25.09.2018
+
+### Progress: Progressed on /sell cs50 pset7 
+
+Did not get much time tonight but as I had hoped I believe the hard work is behind me on this question now.
+Most of the logic on /sell I was able to implement relatively easily. I have implemented the dynamically
+generated drop down list and set up the redirect and flash. Tomorrow I'll finish the validation logic
+as well as db sale transaction update and cash balance update.
