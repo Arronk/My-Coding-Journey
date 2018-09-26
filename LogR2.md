@@ -548,3 +548,12 @@ Did not get much time tonight but as I had hoped I believe the hard work is behi
 Most of the logic on /sell I was able to implement relatively easily. I have implemented the dynamically
 generated drop down list and set up the redirect and flash. Tomorrow I'll finish the validation logic
 as well as db sale transaction update and cash balance update.
+
+## Day 70: 26.09.2018
+
+### Progress: Finished and submitted pset7! 
+
+As expected after a couple of hours tonight I had pset7 all completed. I just added a quick 
+password change functionality to meet the 'personal touch' criteria. I shared it with the world but so
+far not a single hit! haha oh well I'm still really happy with myself for getting it finished.
+
