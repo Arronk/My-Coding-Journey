@@ -557,3 +557,11 @@ As expected after a couple of hours tonight I had pset7 all completed. I just ad
 password change functionality to meet the 'personal touch' criteria. I shared it with the world but so
 far not a single hit! haha oh well I'm still really happy with myself for getting it finished.
 
+## Day 71: 27.09.2018
+
+### Progress: Finished most of week4 exercises for 6.00x 
+
+Got cracking on 6.00x short vids and exercises. This week focuses on debugging, exceptions and assertions.
+I think I need to start using try/except more often in my code and I am finding it all pretty easy to 
+understand. I'm hopeful that by Saturday I should have the week's pset complete and hopefully the mid term as
+well so I can get back onto pset8 in cs50.
