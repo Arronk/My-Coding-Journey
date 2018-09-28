@@ -565,3 +565,11 @@ Got cracking on 6.00x short vids and exercises. This week focuses on debugging, 
 I think I need to start using try/except more often in my code and I am finding it all pretty easy to 
 understand. I'm hopeful that by Saturday I should have the week's pset complete and hopefully the mid term as
 well so I can get back onto pset8 in cs50.
+
+## Day 72: 28.09.2018
+
+### Progress: Watched the second last cs50 lecture in prep for the pset8
+
+Felt like a bit of a break from coding tonight so just watched the lecture leading up to pset8 for #cs50. 
+Expecting a pretty busy weekend ahead of me of both work and coding related problems. Plan to at least
+have the pset4 questions and mid term complete for MIT 6.00x so I can focus on pset8 for cs50 next week.
