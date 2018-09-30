@@ -573,3 +573,21 @@ well so I can get back onto pset8 in cs50.
 Felt like a bit of a break from coding tonight so just watched the lecture leading up to pset8 for #cs50. 
 Expecting a pretty busy weekend ahead of me of both work and coding related problems. Plan to at least
 have the pset4 questions and mid term complete for MIT 6.00x so I can focus on pset8 for cs50 next week.
+
+## Day 73: 29.09.2018
+
+### Progress: Got a little preoccupied by finals fever but nearly completed week 4 psets
+
+As I write this I am completing the 5th of 7 psets for week 4. Planning to watch a movie with the mrs.
+but I am confident I have a good chance of finishing them all tonight. Tomorrow I have to finish the 
+the mid term and get back to finishing my finish model for work.
+
+## Day 74: 30.09.2018
+
+### Progress: Compeleted the psets and the midterm!
+
+Ended up finishing off all the psets last night as I had planned without too much trouble. I quite like
+the psets in this course although they are probably a bit on the easy side compared to cs50. The midterm
+took a bit over 2 hours and could have been more difficult with only the recursive questions causing the 
+usual headache. Managed to score 96% so one month left now until this course is done. Going to try and get 
+a few days on pset 8 in cs50 before I have to get back onto the next weeks psets in 6.00x
