@@ -599,3 +599,11 @@ a few days on pset 8 in cs50 before I have to get back onto the next weeks psets
 Spent most of the night reading up on the Google Maps API and playing around with the different methods
 and functionality it covers in the documentation. I'll probably continue to familiarise myself with 
 it over the coming nights. Don't see this pset being completed for at least a few weeks.
+
+## Day 76: 02.10.2018
+
+### Progress: Get playing around with the Google Maps API   
+
+Only had the bare minimum time tonight due to work commitments so I continued working through the
+tutorial examples for the Google Maps API. Some of it is going a bit over my head but I can get a 
+general feel for what we are doing in the different parts of the code.
