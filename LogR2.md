@@ -607,3 +607,14 @@ it over the coming nights. Don't see this pset being completed for at least a fe
 Only had the bare minimum time tonight due to work commitments so I continued working through the
 tutorial examples for the Google Maps API. Some of it is going a bit over my head but I can get a 
 general feel for what we are doing in the different parts of the code.
+
+## Day 78: 03.10.2018
+
+### Progress: Sooooo tired and my eyes hurt!  
+
+Spent a couple of hours finishing up my reading of the various documentations required to complete
+pset8 for cs50. Then I went on to read up on all of the template files provided for the question. Sooooo
+much reading for this question! I'll start on setting up the db first and i'm just hoping it's 
+another one of those problems where they overwhelm you with noise but it really ends up being a handful of connections
+that need to be set up. Week 5 psets for MIT out tonight so I think i'll work on that for the
+next couple of nights.
