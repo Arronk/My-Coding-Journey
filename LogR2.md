@@ -618,3 +618,13 @@ much reading for this question! I'll start on setting up the db first and i'm ju
 another one of those problems where they overwhelm you with noise but it really ends up being a handful of connections
 that need to be set up. Week 5 psets for MIT out tonight so I think i'll work on that for the
 next couple of nights.
+
+## Day 79: 04.10.2018
+
+### Progress: Got a good start on week 5 6.00x MIT OOP
+
+Well I have to say giving OOP another crack is fundamentally making a lot more sense. In the past
+I had no clue what the hell a method was but over the past months using native methods all the time
+it is now pretty clear what we are doing here. Just creating our own custom types with our own custom
+attributes and functions attached to it. With some practice I'm sure this will become easier but right
+now the syntax is pretty tricky.
