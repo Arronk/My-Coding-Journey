@@ -628,3 +628,11 @@ I had no clue what the hell a method was but over the past months using native m
 it is now pretty clear what we are doing here. Just creating our own custom types with our own custom
 attributes and functions attached to it. With some practice I'm sure this will become easier but right
 now the syntax is pretty tricky.
+
+## Day 80: 05.10.2018
+
+### Progress: Only the bare minimum done today, flying out to Cairns!
+
+All I can manage time for today is reading on the plane to Cairns. About to board so will just continue
+with a Javascript book I started on my last holiday. Have a free day tomorrow so will catch up and hopefully get
+all the week 5 work completed.
