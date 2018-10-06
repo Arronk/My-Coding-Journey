@@ -636,3 +636,12 @@ now the syntax is pretty tricky.
 All I can manage time for today is reading on the plane to Cairns. About to board so will just continue
 with a Javascript book I started on my last holiday. Have a free day tomorrow so will catch up and hopefully get
 all the week 5 work completed.
+
+## Day 81: 06.10.2018
+
+### Progress: Almost onto the second half of the week 5 MIT exercises
+
+This week is taking longer then I expected. OOP is a little bit tricky but I'm confident i'll
+figure it out pretty quickly as I feel like I understand what I am doing once I play around with it and learn
+the new syntax. Have a better day tomorrow, today was a nightmare with travel so hoping to get most of not all
+of the week's work done.
