@@ -645,3 +645,11 @@ This week is taking longer then I expected. OOP is a little bit tricky but I'm c
 figure it out pretty quickly as I feel like I understand what I am doing once I play around with it and learn
 the new syntax. Have a better day tomorrow, today was a nightmare with travel so hoping to get most of not all
 of the week's work done.
+
+## Day 82: 07.10.2018
+
+### Progress: Only a few exercises left for week 5 6.00x
+
+Most of the time today spent watching the videos and finishing a few basic exercises. OOP is trickier then I imagined
+especially after 6 pints and watching the UFC for several hours. Aiming to be onto the psets tomorrow, for now though
+i'm off on a boat cruise.
