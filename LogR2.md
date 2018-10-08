@@ -653,3 +653,11 @@ of the week's work done.
 Most of the time today spent watching the videos and finishing a few basic exercises. OOP is trickier then I imagined
 especially after 6 pints and watching the UFC for several hours. Aiming to be onto the psets tomorrow, for now though
 i'm off on a boat cruise.
+
+## Day 83: 08.10.2018
+
+### Progress: Well my streak is broken  
+
+The work conference festivities got the best of me and I didn't get around to getting my hour in. Another hole
+in my github graph but not to worry i'll just keep going today hopefully.
+
