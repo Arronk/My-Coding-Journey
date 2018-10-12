@@ -654,10 +654,20 @@ Most of the time today spent watching the videos and finishing a few basic exerc
 especially after 6 pints and watching the UFC for several hours. Aiming to be onto the psets tomorrow, for now though
 i'm off on a boat cruise.
 
-## Day 83: 08.10.2018
+## Days of FAIL: 08.10.2018 - 11.10.18
 
 ### Progress: Well my streak is broken  
 
 The work conference festivities got the best of me and I didn't get around to getting my hour in. Another hole
-in my github graph but not to worry i'll just keep going today hopefully.
+in my github graph but not to worry i'll just keep going on my return.
+
+## Day 83: 12.10.18
+
+### Progress: Back to coding!
+
+Well I came back fatter and with a lot of work on my plate so not in the best mind for coding. Went on to finish the 
+week5 exercises tonight but I am not happy with the way I completed them having to reference the answers in most occasions.
+Generators are new and confusing and I struggled in this area. Have to work tomorrow but i'm hoping to have week5 and week6
+close to completion by the end of the week.
+
 
