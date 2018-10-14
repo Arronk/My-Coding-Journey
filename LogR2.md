@@ -670,4 +670,18 @@ week5 exercises tonight but I am not happy with the way I completed them having 
 Generators are new and confusing and I struggled in this area. Have to work tomorrow but i'm hoping to have week5 and week6
 close to completion by the end of the week.
 
+## Day of FAIL: 13.10.18
 
+### Progress: Started and then fell asleep!
+
+I guess the drive to do this consistently is currently low since the big streak was broken. I started 
+revising generators again as I wasn't happy where I left off then went to do my daily meditation and fell
+asleep! 
+
+## Day 84: 14.10.18
+
+### Progress: Smashed it!
+
+Spent basically the entire day today catching up on 6.00x MIT course. Submitted all psets for week5
+and Week6 which now leaves only the midterm left to finish off to get my certificate! Really happy
+with my effort today which definately makes up for the missed days earlier in the week.
