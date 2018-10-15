@@ -685,3 +685,12 @@ asleep!
 Spent basically the entire day today catching up on 6.00x MIT course. Submitted all psets for week5
 and Week6 which now leaves only the midterm left to finish off to get my certificate! Really happy
 with my effort today which definately makes up for the missed days earlier in the week.
+
+## Day 85: 15.10.18
+
+### Progress: Played around on freecodecamp for a change
+
+Didn't have much time tonight so thought i'd have a try at knocking out some questions on freecodecamp.
+Unfortunately i'm at functional programming and i'm just having a really hard time wrapping my head around
+these dam javascript methods. Hoping one of the guys at this weekend's meetup can go through a few with 
+me as I think that will really help.
