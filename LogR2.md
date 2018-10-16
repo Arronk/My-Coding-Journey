@@ -694,3 +694,11 @@ Didn't have much time tonight so thought i'd have a try at knocking out some que
 Unfortunately i'm at functional programming and i'm just having a really hard time wrapping my head around
 these dam javascript methods. Hoping one of the guys at this weekend's meetup can go through a few with 
 me as I think that will really help.
+
+## Day 86: 16.10.18
+
+### Progress: Finished setting up the Open Collective Page for my FCC Group
+
+Less coding and more administration tonight! Finished setting up the Open Collective Page for our group
+in the hopes of obtaining some assitance in securing facilities for our group and getting some exposure for 
+the members to real worlds projects and job opportunities.
