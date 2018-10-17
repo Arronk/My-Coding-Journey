@@ -702,3 +702,12 @@ me as I think that will really help.
 Less coding and more administration tonight! Finished setting up the Open Collective Page for our group
 in the hopes of obtaining some assitance in securing facilities for our group and getting some exposure for 
 the members to real worlds projects and job opportunities.
+
+## Day 87: 17.10.18
+
+### Progress: Got up to section 4/17 on the quick ES6 Udemy Course
+
+Trying to quickly knock out this Udemy course on ES6 features this week as i'm frustrated these 
+higher order array functions in javascript aren't registering for me. I think it's a combination of arrow syntax and callback
+functions adding double layers of complexity for me. So far the questions have be manageable and i'm feeling a bit more 
+comfortable with it.
