@@ -711,3 +711,10 @@ Trying to quickly knock out this Udemy course on ES6 features this week as i'm f
 higher order array functions in javascript aren't registering for me. I think it's a combination of arrow syntax and callback
 functions adding double layers of complexity for me. So far the questions have be manageable and i'm feeling a bit more 
 comfortable with it.
+
+## Day 88: 18.10.18
+
+### Progress: Got up to section 10/17 on the quick ES6 Udemy Course
+
+Did ok with the exercises tonight but there was one or two I had to look at the solution when I had to write a find() inside a reduce().
+Should hopefully have this all finished tomorrow night and back onto finish off the MIT coursework in time for the final exam next week.
