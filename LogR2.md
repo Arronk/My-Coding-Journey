@@ -714,6 +714,13 @@ comfortable with it.
 
 ## Day 88: 18.10.18
 
+### Progress: Got up to section 10/17 on the quick ES6 Udemy Course
+
+Did ok with the exercises tonight but there was one or two I had to look at the solution when I had to write a find() inside a reduce().
+Should hopefully have this all finished tomorrow night and back onto finish off the MIT coursework in time for the final exam next week.
+
+## Day 89: 19.10.18
+
 ### Progress: Got up to section 16/17 on the quick ES6 Udemy Course
 
 Did very average tonight. Really struggled with destructuring and OOP in this course and had to look at the solutions. Like everything
