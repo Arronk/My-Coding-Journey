@@ -727,4 +727,10 @@ Did very average tonight. Really struggled with destructuring and OOP in this co
 I just need to get practice and bed down my understanding of the syntax. Not going to stress over it for the time being as I've already
 got out of this course what I came here for.
 
-TEST
+## Day 90: 20.10.18
+
+### Progress: Finished the ES6 Course and got on with 6.00x reading
+
+Finished the course but I wasn't that pleased with how it finished. I also finished all the reading, video and exercises
+for 6.00x so just the final exam left to do now next weekend. Ended up doing an unplanned enrollment into 6.00x. part 2 though
+today which takes me to the end of the text book. I guess I'm going to be busy with that now until mid December.
