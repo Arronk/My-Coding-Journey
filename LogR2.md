@@ -734,3 +734,11 @@ got out of this course what I came here for.
 Finished the course but I wasn't that pleased with how it finished. I also finished all the reading, video and exercises
 for 6.00x so just the final exam left to do now next weekend. Ended up doing an unplanned enrollment into 6.00x. part 2 though
 today which takes me to the end of the text book. I guess I'm going to be busy with that now until mid December.
+
+## Day 91: 21.10.18
+
+### Progress: Continued reading for 6.00x and started on 6.00x2
+
+Continued my reading with the MIT book to try and get up to the start of the second part of the course. I still have a few pages to read
+as I tried to the first week of coursework finished for 6.00x2. The exercises in this second part are quite difficult so far and require
+a fair bit more mathematical thinking, but it is a good challenge.
