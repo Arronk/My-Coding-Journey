@@ -742,3 +742,10 @@ today which takes me to the end of the text book. I guess I'm going to be busy w
 Continued my reading with the MIT book to try and get up to the start of the second part of the course. I still have a few pages to read
 as I tried to the first week of coursework finished for 6.00x2. The exercises in this second part are quite difficult so far and require
 a fair bit more mathematical thinking, but it is a good challenge.
+
+## Day 92: 22.10.18
+
+### Progress: Finished all the weekly exercises for Week 1 of 6.00x.2
+
+Should hopefully be able to finish off the week 1 psets for 6.00x.2 tomorrow night after finishing all the exercises tonight.
+Still trying to finish off the reading for 6.00x at the moment. 30-50 pages just to get up to date with week 1 materal included!
