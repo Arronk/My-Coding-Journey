@@ -749,3 +749,11 @@ a fair bit more mathematical thinking, but it is a good challenge.
 
 Should hopefully be able to finish off the week 1 psets for 6.00x.2 tomorrow night after finishing all the exercises tonight.
 Still trying to finish off the reading for 6.00x at the moment. 30-50 pages just to get up to date with week 1 materal included!
+
+## Day 93: 23.10.18
+
+### Progress: Nearly caught up on all reading for 6.002x
+
+Almost caught up on all reading for 6.002x and finished all reading for 6.00x. Also spent a couple of hours messing
+around with matplotlib and getting it working how I would like in VS Code. Some of these optimisation blow my mind even when
+stepping through them in the debugger!
