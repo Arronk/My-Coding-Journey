@@ -757,3 +757,11 @@ Still trying to finish off the reading for 6.00x at the moment. 30-50 pages just
 Almost caught up on all reading for 6.002x and finished all reading for 6.00x. Also spent a couple of hours messing
 around with matplotlib and getting it working how I would like in VS Code. Some of these optimisation blow my mind even when
 stepping through them in the debugger!
+
+## Day 94: 24.10.18
+
+### Progress: Finished Q1/3 for pset1 6.002x
+
+having a bit of a hard time with syntax again for some reason. I am still not 100% there when it comes
+to all the methods and code related to dictionaries. I keep bumping into deeper layers and syntax of python
+every day which adds to the confusion but i'm getting there slowly.
