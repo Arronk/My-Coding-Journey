@@ -765,3 +765,12 @@ stepping through them in the debugger!
 having a bit of a hard time with syntax again for some reason. I am still not 100% there when it comes
 to all the methods and code related to dictionaries. I keep bumping into deeper layers and syntax of python
 every day which adds to the confusion but i'm getting there slowly.
+
+## Day 95: 25.10.18
+
+### Progress: Finished all week 1 psets for 6.00x2
+
+The brute force algo was pretty tricky and again took a fair bit of debugging until I managed to pass
+all submission tests but I got there in a couple of hours and now have a bit of a break before the next weeks material is released
+in just under a weeks time. The final exam for 6.00x gets released Saturday so looks like that will be
+my task for the weekend. Around that i'll probably try and give pset8 for cs50 a good crack.
