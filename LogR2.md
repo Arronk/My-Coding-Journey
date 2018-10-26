@@ -774,3 +774,12 @@ The brute force algo was pretty tricky and again took a fair bit of debugging un
 all submission tests but I got there in a couple of hours and now have a bit of a break before the next weeks material is released
 in just under a weeks time. The final exam for 6.00x gets released Saturday so looks like that will be
 my task for the weekend. Around that i'll probably try and give pset8 for cs50 a good crack.
+
+## Day 96: 26.10.18
+
+### Progress: Back onto pset8 for cs50
+
+Refamilarised myself with the massive wall of text that is the pset8 tl;dr then setup
+the schema for my database in sqlite3. Decided to try and give this project a bit of my own feel so 
+I discarded the US data and got my own aussie data so my mashup will be on my home town. The pset is 
+pretty overwhelming but i'm hoping if I just take it one TODO at a time it should be manageable.
