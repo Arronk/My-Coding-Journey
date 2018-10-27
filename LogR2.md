@@ -783,3 +783,11 @@ Refamilarised myself with the massive wall of text that is the pset8 tl;dr then 
 the schema for my database in sqlite3. Decided to try and give this project a bit of my own feel so 
 I discarded the US data and got my own aussie data so my mashup will be on my home town. The pset is 
 pretty overwhelming but i'm hoping if I just take it one TODO at a time it should be manageable.
+
+## Day 97: 27.10.18
+
+### Progress: Completed the final exam for MIT 6.00x
+
+Well I have to say this was a fair amount harder then the midterm but I got it finished in just over 4 hours!! The multi
+choice was easy but some of the functions we had to complete we pretty difficult. I'm not sure if actual MIT students are
+allowed to refer to stack overflow in their exam but I would have been pretty screwed without it!
