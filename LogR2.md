@@ -791,3 +791,11 @@ pretty overwhelming but i'm hoping if I just take it one TODO at a time it shoul
 Well I have to say this was a fair amount harder then the midterm but I got it finished in just over 4 hours!! The multi
 choice was easy but some of the functions we had to complete we pretty difficult. I'm not sure if actual MIT students are
 allowed to refer to stack overflow in their exam but I would have been pretty screwed without it!
+
+## Day 98: 28.10.18
+
+### Progress: FCC Functional Programming Reboot
+
+had a long day doing tax returns and just couldn't be bothered getting onto pset8. Went back to FCC and resetarted
+the functional programming section to see if I had improved at all. So far I can see some improvement but
+I find after being on python for a while the JS syntax gets somewhat forgotten in place of the other.
