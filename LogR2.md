@@ -799,3 +799,11 @@ allowed to refer to stack overflow in their exam but I would have been pretty sc
 had a long day doing tax returns and just couldn't be bothered getting onto pset8. Went back to FCC and resetarted
 the functional programming section to see if I had improved at all. So far I can see some improvement but
 I find after being on python for a while the JS syntax gets somewhat forgotten in place of the other.
+
+## Day 99: 29.10.18
+
+### Progress: Intermediate Algos on FCC
+
+Not doing too well on the intermediate algos on FCC tonight. I know in my head what needs to be done 
+I just don't know the methods and syntax well enough to execute properly which is pretty annoying. Just have to 
+keep practicing!
