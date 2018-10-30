@@ -807,3 +807,11 @@ I find after being on python for a while the JS syntax gets somewhat forgotten i
 Not doing too well on the intermediate algos on FCC tonight. I know in my head what needs to be done 
 I just don't know the methods and syntax well enough to execute properly which is pretty annoying. Just have to 
 keep practicing!
+
+## Day 100: 30.10.18
+
+### Progress: Intermediate Algos on FCC continued...
+
+had a better day today knocking out quite a few of the intermediate algo's without too much hassle. Stuck at the moment
+on the smallest common divisor problem as I have to learn about conceptual maths and it hurts my brain at 11pm at night.
+Going to come back to it tomorrow! Another 100 days complete!
