@@ -5,7 +5,8 @@
 * [Home](README.md)
 * [Rules](rules.md)
 * [Log Round 1 - Archive](LogR1.md)
-* [Log Round 2 - Check my current progress](LogR2.md)
+* [Log Round 2 - Archive](LogR2.md)
+* [Log Round 3 - Check my Current Progress](LogR3.md)
 * [FAQ](FAQ.md)
 * [Extras](Extras.md)
 
@@ -22,7 +23,7 @@ following rules:
 
 1. Coded for at least an hour a day
 2. Tweeted my progress every day and reached out to at least two other people on Twitter
-3. Updated my [log](LogR2.md) everyday and pushed it to my repo
+3. Updated my [log](LogR3.md) everyday and pushed it to my repo
 4. Pushed my projects and work to Github and provided links to the work or videos of my projects in my daily log where possible
 5. Uploaded front end projects to my Codepen account 
 6. Provided links to my Github, Linkedin & Codepen account on my Twitter profile
