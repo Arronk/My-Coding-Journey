@@ -17,3 +17,11 @@
 I find some of these intermediate algos are significantly harder then the others. Stuck 
 again tonight trying to do something that should probably be simple, looping over a variable
 amount of nested arrays and return the elements inside them. 
+
+## Day 2: 01/11/2018
+
+### Progress: Got cracking on Week 2 6.002x exercises
+
+Probabilities galore so far this week. Finding some questions quite tricky where they are asking
+for the smallest fraction calculations on some larger numbers. Hope to have week 2 finished nice and 
+quickly so I can get back to FCC and cs50
