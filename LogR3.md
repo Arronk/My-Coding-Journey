@@ -25,3 +25,10 @@ amount of nested arrays and return the elements inside them.
 Probabilities galore so far this week. Finding some questions quite tricky where they are asking
 for the smallest fraction calculations on some larger numbers. Hope to have week 2 finished nice and 
 quickly so I can get back to FCC and cs50
+
+## Day 3: 02/11/2018
+
+### Progress: Finished the week 2 exercises and got started on the psets
+
+The rest of the exercises for week 2 were pretty straight forward. It was more focused on working out 
+probability then it was writing code though!
