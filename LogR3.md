@@ -32,3 +32,11 @@ quickly so I can get back to FCC and cs50
 
 The rest of the exercises for week 2 were pretty straight forward. It was more focused on working out 
 probability then it was writing code though!
+
+## Day 4: 03/11/2018
+
+### Progress: Spent most of the day fixing a computer instead of coding grrrr
+
+My mate's pc wasn't working so I spent the day playing around with hardware and getting the right OS installed
+on his new SSD. Turned out he installed a 32 bit Windows which meant even after I upgraded it, it was still unable to
+run most of his games which required a 64 bit OS. After about 5 hours we got there in the end!
