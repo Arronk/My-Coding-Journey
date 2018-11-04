@@ -40,3 +40,11 @@ probability then it was writing code though!
 My mate's pc wasn't working so I spent the day playing around with hardware and getting the right OS installed
 on his new SSD. Turned out he installed a 32 bit Windows which meant even after I upgraded it, it was still unable to
 run most of his games which required a 64 bit OS. After about 5 hours we got there in the end!
+
+## Day 5: 04/11/2018
+
+### Progress: Having fun working through pset2 for MIT 6.00.2x
+
+Felt a little bit lost when first attempting to solve the first question of pset2. Once I realised I had to 
+implement a data structure to store the cleaned/not cleaned states of tiles in the room it was pretty easy
+after that point. Everything in this course is OOP which I am enjoying get the opportunity to practice more.
