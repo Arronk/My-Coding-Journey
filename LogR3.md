@@ -48,3 +48,11 @@ run most of his games which required a 64 bit OS. After about 5 hours we got the
 Felt a little bit lost when first attempting to solve the first question of pset2. Once I realised I had to 
 implement a data structure to store the cleaned/not cleaned states of tiles in the room it was pretty easy
 after that point. Everything in this course is OOP which I am enjoying get the opportunity to practice more.
+
+## Day 6: 05/11/2018
+
+### Progress: Having fun working through pset2 for MIT 6.00.2x cont...
+
+Managed to finish Questions 2 & 3 of pset2 tonight. I am enjoying this pset is it a good level of challenge
+to better my understanding of OOP. The functions and classes themselves are relatively straight forward but i'm
+finding it still to be a good challenge as I become more familiar with the syntax.
