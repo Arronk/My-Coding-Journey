@@ -56,3 +56,12 @@ after that point. Everything in this course is OOP which I am enjoying get the o
 Managed to finish Questions 2 & 3 of pset2 tonight. I am enjoying this pset is it a good level of challenge
 to better my understanding of OOP. The functions and classes themselves are relatively straight forward but i'm
 finding it still to be a good challenge as I become more familiar with the syntax.
+
+## Day 7: 06/11/2018
+
+### Progress: Finished pset2 for 6.00.2x!
+
+Finished off the rest of pset2 without too much issues tonight. It was very interesting to run some
+of the simulations to see what effect changes in different variables had on the timesteps.I did not expect
+the results from the aspect ratio plot. Also now only have 1 javascript project left before I get my 
+first FCC cert!
