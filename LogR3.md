@@ -65,3 +65,11 @@ Finished off the rest of pset2 without too much issues tonight. It was very inte
 of the simulations to see what effect changes in different variables had on the timesteps.I did not expect
 the results from the aspect ratio plot. Also now only have 1 javascript project left before I get my 
 first FCC cert!
+
+## Day 8: 07/11/2018
+
+### Progress: Got my first FCC Certificate FINALLY!!
+
+Well i'm very happy tonight that I managed to knock out the cash register problem in about 3-4 hours and 
+claimed my first certificate with Freecodecamp! Happy to finally have at least one of the certificates
+under my belt after numerous detours to other courses over the past 12 months.
