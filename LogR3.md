@@ -73,3 +73,5 @@ first FCC cert!
 Well i'm very happy tonight that I managed to knock out the cash register problem in about 3-4 hours and 
 claimed my first certificate with Freecodecamp! Happy to finally have at least one of the certificates
 under my belt after numerous detours to other courses over the past 12 months.
+
+- [Javascript Algorithms & Data Structures Certificate](https://www.freecodecamp.org/certification/arronk/javascript-algorithms-and-data-structures)
