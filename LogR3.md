@@ -75,3 +75,11 @@ claimed my first certificate with Freecodecamp! Happy to finally have at least o
 under my belt after numerous detours to other courses over the past 12 months.
 
 - [Javascript Algorithms & Data Structures Certificate](https://www.freecodecamp.org/certification/arronk/javascript-algorithms-and-data-structures)
+- 
+## Day 9: 08/11/2018
+
+### Progress: Hardware day!
+
+Been watching a lot of PC builds over the past week which has motivated me to pull mine apart, give it 
+a clean and try and fix up all my messy cable management. Pretty pleased with the outcome and i'm kinda 
+glad I did it as the radiator was caked in dust.
