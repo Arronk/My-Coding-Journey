@@ -83,3 +83,12 @@ under my belt after numerous detours to other courses over the past 12 months.
 Been watching a lot of PC builds over the past week which has motivated me to pull mine apart, give it 
 a clean and try and fix up all my messy cable management. Pretty pleased with the outcome and i'm kinda 
 glad I did it as the radiator was caked in dust.
+
+## Day 10: 09/11/2018
+
+### Progress:Learning how to Learn with Coursera
+
+OK so not really coding today because I wanted to address my learning in general with the hopes
+it will make my learning to code more effective and help me with some procrastination issues I've
+been struggling with lately. So far the Coursera course it very interesting with lots of 
+resources but nothing too ground breaking yet that is giving me an ah-hah moment.
