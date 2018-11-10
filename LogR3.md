@@ -92,3 +92,13 @@ OK so not really coding today because I wanted to address my learning in general
 it will make my learning to code more effective and help me with some procrastination issues I've
 been struggling with lately. So far the Coursera course it very interesting with lots of 
 resources but nothing too ground breaking yet that is giving me an ah-hah moment.
+
+## Day 11: 10/11/2018
+
+### Progress:Learning how to Learn with Coursera and FCC Meetup
+
+Hosted the monthly Freecodecamp meetup today and spent a couple of hours talking code which 
+is always enjoyable. For the rest of the day I tried to complete the entire learning to learn course
+in the day but I think i'll not get the final assignment done tonight, hopefully tomorrow. It's pretty funny
+though as I'm probably going against some of the teachings in the course by trying to do it all in a day as it has
+been proven to be less effective then steady repeitition over time to let the ideas form chunks haha. 
