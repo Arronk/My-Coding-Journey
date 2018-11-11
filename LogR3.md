@@ -102,3 +102,13 @@ is always enjoyable. For the rest of the day I tried to complete the entire lear
 in the day but I think i'll not get the final assignment done tonight, hopefully tomorrow. It's pretty funny
 though as I'm probably going against some of the teachings in the course by trying to do it all in a day as it has
 been proven to be less effective then steady repeitition over time to let the ideas form chunks haha. 
+
+## Day 12: 11/11/2018
+
+### Progress: Finished Learning how to learn and implemented the first function in pset8 CS50
+
+I was a bit dissappointed with where I finished in Learning how to learn. Nothing too ground breaking 
+really. I was hoping for some kind of ah-hah moment that would cure my procrastination that didn't 
+eventuate! Got back to pset8 today for cs50 and after much failure trying to get the google news rss
+working for my aussie zip code it just wouldn't work so I went back to using US ones to get the job 
+done. managed to implement the /articles logic and tomorrow I should have /search done.
