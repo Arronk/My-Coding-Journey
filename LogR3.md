@@ -112,3 +112,10 @@ really. I was hoping for some kind of ah-hah moment that would cure my procrasti
 eventuate! Got back to pset8 today for cs50 and after much failure trying to get the google news rss
 working for my aussie zip code it just wouldn't work so I went back to using US ones to get the job 
 done. managed to implement the /articles logic and tomorrow I should have /search done.
+
+## Day 13: 12/11/2018
+
+### Progress: Busy night so just a bit of revision
+
+Not enough time tonight to get stuck back into pset8 so just did some revision in preparation
+for the next FCC certificate.
