@@ -119,3 +119,11 @@ done. managed to implement the /articles logic and tomorrow I should have /searc
 
 Not enough time tonight to get stuck back into pset8 so just did some revision in preparation
 for the next FCC certificate.
+
+## Day 14: 13/11/2018
+
+### Progress: Did some more FCC and attended a local Big Data Event
+
+Went into the city to see some local experts talk about Big data and what's going in the local scene.
+It was pretty interesting but nothing too ground breaking I hadn't already read about on Medium tbh.
+Up to new stuff again in FCC which is fun but I really need to get back to CS50!
