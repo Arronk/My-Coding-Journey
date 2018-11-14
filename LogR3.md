@@ -127,3 +127,12 @@ for the next FCC certificate.
 Went into the city to see some local experts talk about Big data and what's going in the local scene.
 It was pretty interesting but nothing too ground breaking I hadn't already read about on Medium tbh.
 Up to new stuff again in FCC which is fun but I really need to get back to CS50!
+
+## Day 15: 14/11/2018
+
+### Progress: Moved onto the react section of FCC
+
+I knew this day would come eventually but today I ventured into the rabbit hole they call React. I
+have a feeling this is something that will take some time to master and I purposely havne't rushed into
+a JS framework as I wanted to get more familiar with Vanilla JS and programming in general first. I'm
+now up to this section in FCC so I guess I might as well get my feet wet.
