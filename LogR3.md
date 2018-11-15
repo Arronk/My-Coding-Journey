@@ -130,9 +130,17 @@ Up to new stuff again in FCC which is fun but I really need to get back to CS50!
 
 ## Day 15: 14/11/2018
 
-### Progress: Moved onto the react section of FCC
+### Progress: Moved onto the React section of FCC
 
 I knew this day would come eventually but today I ventured into the rabbit hole they call React. I
 have a feeling this is something that will take some time to master and I purposely havne't rushed into
 a JS framework as I wanted to get more familiar with Vanilla JS and programming in general first. I'm
 now up to this section in FCC so I guess I might as well get my feet wet.
+
+## Day 16: 15/11/2018
+
+### Progress: Continued with the React section of FCC
+
+Cruising through the React section but have hit a few more challenging ones just as I write this. I am 
+comfortable though that it is just a syntax problem that will get better with practice. Hoping to have all
+the core React component before I go to sleep.
