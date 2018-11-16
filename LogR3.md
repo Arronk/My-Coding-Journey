@@ -144,3 +144,11 @@ now up to this section in FCC so I guess I might as well get my feet wet.
 Cruising through the React section but have hit a few more challenging ones just as I write this. I am 
 comfortable though that it is just a syntax problem that will get better with practice. Hoping to have all
 the core React component before I go to sleep.
+
+## Day 17: 16/11/2018
+
+### Progress: Continued with the React section of FCC and got stuck into week 3 6.00.2x MIT
+
+Still continuing on with the React exercises and also spent some time getting a start on week 3 for
+MIT 6.00.2x. This weeks exercises and psets for the MIT course look really interesting and i'm hoping
+to have it all completed before the end of the weekend. Looks like cs50 got shafted again!
