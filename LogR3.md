@@ -152,3 +152,10 @@ the core React component before I go to sleep.
 Still continuing on with the React exercises and also spent some time getting a start on week 3 for
 MIT 6.00.2x. This weeks exercises and psets for the MIT course look really interesting and i'm hoping
 to have it all completed before the end of the weekend. Looks like cs50 got shafted again!
+
+## Day 18: 17/11/2018
+
+### Progress: Finished the React section and kept going with MIT 6.00.2x
+
+Nothing interesting to report just another groundhog day at the moment. Looking forward to the 
+week 3 psets in 6.00.2x
