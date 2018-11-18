@@ -159,3 +159,10 @@ to have it all completed before the end of the weekend. Looks like cs50 got shaf
 
 Nothing interesting to report just another groundhog day at the moment. Looking forward to the 
 week 3 psets in 6.00.2x
+
+## Day 19: 18/11/2018
+
+### Progress: Pretty Lazy today
+
+More work on FCC and week 3 MIT, plus I watched a youtube vid posted by FCC on fundamentals of 
+machine learning
