@@ -166,3 +166,10 @@ week 3 psets in 6.00.2x
 
 More work on FCC and week 3 MIT, plus I watched a youtube vid posted by FCC on fundamentals of 
 machine learning
+
+## Day 20: 19/11/2018
+
+### Progress: Worked on MIT 6.00.2x
+
+A little bit confused today with CLT. Going to have to do this carefully so I understand what's going on
+here. Pretty new to all of this statistics stuff. Hope to be onto the psets tomorrow night
