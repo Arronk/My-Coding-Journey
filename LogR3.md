@@ -173,3 +173,13 @@ machine learning
 
 A little bit confused today with CLT. Going to have to do this carefully so I understand what's going on
 here. Pretty new to all of this statistics stuff. Hope to be onto the psets tomorrow night
+
+## Day 21: 20/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Revisited CLT from last night to get a better understanding of it and then moved onto the rest of the
+monte carlo videos and exercises. Finished the night have to implement a simple simulation function
+which had to calculate the probability of pulling the same coloured ball out of a bucket of six balls, 3 red 
+and 3 green, over X number of trials. I do enjoy these simulation functions and I managed to get the 
+function working without too much issue.
