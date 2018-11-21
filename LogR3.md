@@ -183,3 +183,11 @@ monte carlo videos and exercises. Finished the night have to implement a simple 
 which had to calculate the probability of pulling the same coloured ball out of a bucket of six balls, 3 red 
 and 3 green, over X number of trials. I do enjoy these simulation functions and I managed to get the 
 function working without too much issue.
+
+## Day 22: 21/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Finished the weekly exercises and videos as well as part a of the psets. Can hopefully finish the psets by
+Friday night. The 3rd and 4th probability questions in part a were difficult, I guess I still have a fair 
+bit to learn when it comes to probability calculations.
