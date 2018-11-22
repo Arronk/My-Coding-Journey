@@ -191,3 +191,12 @@ function working without too much issue.
 Finished the weekly exercises and videos as well as part a of the psets. Can hopefully finish the psets by
 Friday night. The 3rd and 4th probability questions in part a were difficult, I guess I still have a fair 
 bit to learn when it comes to probability calculations.
+
+## Day 23: 22/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+After trying my best with no luck I raised a question on stack overflow for my probability question
+confusion and within a matter of minutes the reasoning behind the calculation was given back to me. I then 
+used the logic to solve the final one and I think I'm relatively happy with my understanding now. Worked
+tonight on PartB and after a bit of trial and error managed to finish Q1 of 5
