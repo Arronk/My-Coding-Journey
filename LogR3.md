@@ -200,3 +200,14 @@ After trying my best with no luck I raised a question on stack overflow for my p
 confusion and within a matter of minutes the reasoning behind the calculation was given back to me. I then 
 used the logic to solve the final one and I think I'm relatively happy with my understanding now. Worked
 tonight on PartB and after a bit of trial and error managed to finish Q1 of 5
+
+## Day 24: 23/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Managed to finish Part B question 2 tonight. All I had to do was implement one function which ran a simulation
+which took a variable number of viruses and then ran trials on a patient a variable number of times. It 
+took the average of the results from all 300 steps of each trial and then plotted the virus growth rate
+using pylab. It took a bit of time to figure out how to best store all the results and then calcualate
+the mean of each step from every trial but I got there after a couple of hours. Got to spend more time
+using list comprehensions which was good.
