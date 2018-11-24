@@ -211,3 +211,10 @@ took the average of the results from all 300 steps of each trial and then plotte
 using pylab. It took a bit of time to figure out how to best store all the results and then calcualate
 the mean of each step from every trial but I got there after a couple of hours. Got to spend more time
 using list comprehensions which was good.
+
+## Day 25: 24/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Almost finished Q3 of PartB. Did not get as much time as I would have liked to today but confident
+I can get all questions of pset3 finished as well as the mid term exam.
