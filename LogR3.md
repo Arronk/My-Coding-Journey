@@ -218,3 +218,12 @@ using list comprehensions which was good.
 
 Almost finished Q3 of PartB. Did not get as much time as I would have liked to today but confident
 I can get all questions of pset3 finished as well as the mid term exam.
+
+## Day 26: 25/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+A long day coding but I managed to finish the weekend having completed all my goals. All week 3 psets submitted as well
+as the mid term exam. Also receieved my completion certificate already, before even completing the final pset of final exam.
+The pass rate is too low in my opinion as it really removes the feeling of accomplishment. It should be all psets and exams submitted 
+with a minimum x% pass rate in the final exam and total mark above x% or something, like a normal university unit.
