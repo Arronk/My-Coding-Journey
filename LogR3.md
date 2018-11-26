@@ -227,3 +227,10 @@ A long day coding but I managed to finish the weekend having completed all my go
 as the mid term exam. Also receieved my completion certificate already, before even completing the final pset of final exam.
 The pass rate is too low in my opinion as it really removes the feeling of accomplishment. It should be all psets and exams submitted 
 with a minimum x% pass rate in the final exam and total mark above x% or something, like a normal university unit.
+
+## Day 27: 26/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Since i'm now in front again on my coursework I took tonight to catch up on my reading and revise some of the things
+I have learned over the past few weeks.
