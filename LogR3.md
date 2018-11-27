@@ -234,3 +234,9 @@ with a minimum x% pass rate in the final exam and total mark above x% or somethi
 
 Since i'm now in front again on my coursework I took tonight to catch up on my reading and revise some of the things
 I have learned over the past few weeks.
+
+## Day 28: 27/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Continued reading and working through some code examples in the MIT 6.002x text book tonight. Nothing to exciting but I feel I got a better understanding of some of the concepts from slowing down and working my way through some simulations.
