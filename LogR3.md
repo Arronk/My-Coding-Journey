@@ -234,3 +234,11 @@ with a minimum x% pass rate in the final exam and total mark above x% or somethi
 
 Since i'm now in front again on my coursework I took tonight to catch up on my reading and revise some of the things
 I have learned over the past few weeks.
+
+## Day 28: 27/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Got stuck into week 4 lectures and exercises this week and I have to say so far it has gone over my head. There is a 
+lot of new terms, formulas and syntax and the abstraction is quite mind bending. Hopefully things become a little clearer
+once I start working through the psets and have a read of the topic a bit more thoroughly in the text book.
