@@ -240,9 +240,13 @@ I have learned over the past few weeks.
 ### Progress: Worked on MIT 6.00.2x again
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Got stuck into week 4 lectures and exercises this week and I have to say so far it has gone over my head. There is a 
 lot of new terms, formulas and syntax and the abstraction is quite mind bending. Hopefully things become a little clearer
 once I start working through the psets and have a read of the topic a bit more thoroughly in the text book.
+=======
+Continued reading and working through some code examples in the MIT 6.002x text book tonight. Nothing to exciting but I feel I got a better understanding of some of the concepts from slowing down and working my way through some simulations.
+>>>>>>> 424e4338672c68931cf903ffc08616bb1b8410fc
 =======
 Continued reading and working through some code examples in the MIT 6.002x text book tonight. Nothing to exciting but I feel I got a better understanding of some of the concepts from slowing down and working my way through some simulations.
 >>>>>>> 424e4338672c68931cf903ffc08616bb1b8410fc
