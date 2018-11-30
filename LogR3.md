@@ -254,3 +254,10 @@ More reading the text book and working through examples
 Started on week 4's videos and exercises and have to say so far it has gone totally over my head. 
 I'm hoping the psets and some additional reading of the text book and examples help with my understanding 
 better over the next few days
+
+## Day 31: 30/11/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Just the bare minimum reading today as it was a long day working followed up with a 3000km flight back home.
+Will catch up and try and smash out pset 4 tomorrow.
