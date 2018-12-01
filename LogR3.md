@@ -261,3 +261,10 @@ better over the next few days
 
 Just the bare minimum reading today as it was a long day working followed up with a 3000km flight back home.
 Will catch up and try and smash out pset 4 tomorrow.
+
+## Day 32: 01/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Revised the first part of week four and I think I have a better understanding of the underlying concepts now. I also finished
+off  the rest of the exercises and videos and looking to have all the psets completed tomorrow.
