@@ -268,3 +268,11 @@ Will catch up and try and smash out pset 4 tomorrow.
 
 Revised the first part of week four and I think I have a better understanding of the underlying concepts now. I also finished
 off  the rest of the exercises and videos and looking to have all the psets completed tomorrow.
+
+## Day 33: 02/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Ended up binge watching Wentworth all day and didn't end up even attempting pset4. Did manage to fit in an hour or so reading
+a couple of the last chapters of the text book though. By the end of next week I am aiming to have all the text book finished
+as well as all of the psets
