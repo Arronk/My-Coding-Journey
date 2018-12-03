@@ -276,3 +276,10 @@ off  the rest of the exercises and videos and looking to have all the psets comp
 Ended up binge watching Wentworth all day and didn't end up even attempting pset4. Did manage to fit in an hour or so reading
 a couple of the last chapters of the text book though. By the end of next week I am aiming to have all the text book finished
 as well as all of the psets
+
+## Day 34: 04/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Just one chapter left on Machine learning then the text book is complete. Will get it finished tomorrow night and then get the 
+final psets finished on Wednesday/Thursday.
