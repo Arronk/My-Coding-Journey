@@ -283,3 +283,11 @@ as well as all of the psets
 
 Just one chapter left on Machine learning then the text book is complete. Will get it finished tomorrow night and then get the 
 final psets finished on Wednesday/Thursday.
+
+## Day 35: 05/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Finished the final chapter in the textbook for MIT 6.00.2x although it practically went completely over my head. The chapter was 
+on machine learning and I think it's just one of those things that will take some practice to get a better
+visual in my mind about how the core functions and math are working
