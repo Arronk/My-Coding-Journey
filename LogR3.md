@@ -291,3 +291,11 @@ final psets finished on Wednesday/Thursday.
 Finished the final chapter in the textbook for MIT 6.00.2x although it practically went completely over my head. The chapter was 
 on machine learning and I think it's just one of those things that will take some practice to get a better
 visual in my mind about how the core functions and math are working
+
+## Day 36: 06/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Week 5 was released tonight so I went through and completed all videos and exercises. The final exam is next week and I should
+have pset 4 submitted before the end of the week. It's been a pretty interesting subject and I think I will delve deeper into
+statistics and machine learning in the future.
