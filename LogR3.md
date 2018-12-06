@@ -299,3 +299,11 @@ visual in my mind about how the core functions and math are working
 Week 5 was released tonight so I went through and completed all videos and exercises. The final exam is next week and I should
 have pset 4 submitted before the end of the week. It's been a pretty interesting subject and I think I will delve deeper into
 statistics and machine learning in the future.
+
+## Day 37: 07/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Started writing out the machine learning code example from the text book and using youtube videos to get a better understanding
+of the Minkowski distance measure. Hoping to work through the entire example and have a good understanding of the problem and 
+functions by the end of it
