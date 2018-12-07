@@ -307,3 +307,9 @@ statistics and machine learning in the future.
 Started writing out the machine learning code example from the text book and using youtube videos to get a better understanding
 of the Minkowski distance measure. Hoping to work through the entire example and have a good understanding of the problem and 
 functions by the end of it
+
+## Day 38: 08/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Continued my machine learning project using my family as test objects haha. it's pretty fun
