@@ -313,3 +313,11 @@ functions by the end of it
 ### Progress: Worked on MIT 6.00.2x again
 
 Continued my machine learning project using my family as test objects haha. it's pretty fun
+
+## Day 39: 08/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Nursing a fairly significant hangover today after attending my xmas work function yesterday. Continued on with building out more 
+of my ML code. Today I create a two objects and underlying methods which will be used to represent clusters in an unsupervised
+approach. Need to get pset4 done before the deadline though so I better get that sorted tomorrow.
