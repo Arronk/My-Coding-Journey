@@ -321,3 +321,11 @@ Continued my machine learning project using my family as test objects haha. it's
 Nursing a fairly significant hangover today after attending my xmas work function yesterday. Continued on with building out more 
 of my ML code. Today I create a two objects and underlying methods which will be used to represent clusters in an unsupervised
 approach. Need to get pset4 done before the deadline though so I better get that sorted tomorrow.
+
+## Day 40: 09/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Crap day of code, crap weekend really. Too many distractions and a work xmas party to do for the kids. Managed to work through some
+of the clustering code and computations this afternoon which gave me a better understanding of computing centroids in data clusters. No pset 4
+even attempted yet which I really have to tackle before its due on Thursday.
