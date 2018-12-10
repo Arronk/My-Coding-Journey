@@ -329,3 +329,10 @@ approach. Need to get pset4 done before the deadline though so I better get that
 Crap day of code, crap weekend really. Too many distractions and a work xmas party to do for the kids. Managed to work through some
 of the clustering code and computations this afternoon which gave me a better understanding of computing centroids in data clusters. No pset 4
 even attempted yet which I really have to tackle before its due on Thursday.
+
+## Day 41: 10/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Did not have much time today as I spent most of the day travelling to Brisbane. Read through the starter code for pset4 and
+worked through some examples for the helper code to get an understanding of what it was doing
