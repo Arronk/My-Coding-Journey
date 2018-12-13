@@ -336,3 +336,11 @@ even attempted yet which I really have to tackle before its due on Thursday.
 
 Did not have much time today as I spent most of the day travelling to Brisbane. Read through the starter code for pset4 and
 worked through some examples for the helper code to get an understanding of what it was doing
+
+## Day 42: 11/12/2018
+
+### Progress: Worked on MIT 6.00.2x again
+
+Missed a couple of days whilst interstate on a conference but got back into it tonight, finishing the final pset for 6.00.2x.
+I only have the final exam left to complete now this weekend and then hopefully I can get cs50 finished before the end of the year whilst
+I am on leave.
