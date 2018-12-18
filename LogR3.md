@@ -344,3 +344,11 @@ worked through some examples for the helper code to get an understanding of what
 Missed a couple of days whilst interstate on a conference but got back into it tonight, finishing the final pset for 6.00.2x.
 I only have the final exam left to complete now this weekend and then hopefully I can get cs50 finished before the end of the year whilst
 I am on leave.
+
+## Day 43: 18/12/2018
+
+### Progress: Finished 6.00.2x final exam....poorly
+
+Going into the exam with very little revision and a drop in my coding I performed quite poorly. It appears I'm still struggling
+quite a bit on a lot of the statistics concepts and fundamentals which is a little bit disheartening. I guess i'll just have to keep
+practicing over time in future courses.
